@@ -71,13 +71,14 @@ The dashboard focuses on:
 - Supplier analysis
 - Inventory trends and operational performance
 
-## 📂 Project Files
+## 📁 Project Files
 
 | File / Folder | Description |
 |---|---|
 | `Data/` | Supply chain datasets |
-| `*.pbix` | Power BI dashboard |
-| `Dashboard/` | Dashboard screenshots |
+| `*.csv` | Fact and dimension datasets used for analysis |
+| `Supply_Chain_Operations_BI_Dashboard.png` | Power BI dashboard preview |
+| `README.md` | Project documentation |
 
 ## 📸 Dashboard Preview
 
