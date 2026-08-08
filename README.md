@@ -81,7 +81,7 @@ The dashboard focuses on:
 
 ## 📸 Dashboard Preview
 
-![Supply Chain & Operations Power BI Dashboard](Supply_Chain_Operations_Dashboard.png)
+![Supply Chain & Operations Power BI Dashboard](Supply_Chain_Operations_BI_Dashboard.png)
 
 ## 🚀 Skills Demonstrated
 
