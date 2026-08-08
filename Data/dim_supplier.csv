@@ -1,0 +1,121 @@
+"supplier_key","supplier_id","supplier_name","country","lead_time_days","reliability_score"
+1,"SUP0001","Rodriguez, Figueroa and Sanchez","Spain",22,0.89
+2,"SUP0002","Doyle Ltd","France",23,1.00
+3,"SUP0003","Mcclain, Miller and Henderson","Germany",15,0.88
+4,"SUP0004","Davis and Sons","Turkey",32,0.96
+5,"SUP0005","Guzman, Hoffman and Baldwin","Poland",13,0.94
+6,"SUP0006","Gardner, Robinson and Lawrence","United Kingdom",13,0.86
+7,"SUP0007","Blake and Sons","United Kingdom",20,0.75
+8,"SUP0008","Henderson, Ramirez and Lewis","Germany",2,0.86
+9,"SUP0009","Garcia-James","USA",8,0.93
+10,"SUP0010","Abbott-Munoz","USA",9,0.79
+11,"SUP0011","Blair PLC","France",31,0.88
+12,"SUP0012","Dudley Group","Turkey",18,0.79
+13,"SUP0013","Arnold Ltd","United Kingdom",13,0.91
+14,"SUP0014","Mcclure, Ward and Lee","France",7,0.93
+15,"SUP0015","Williams and Sons","USA",12,0.88
+16,"SUP0016","Galloway-Wyatt","Italy",12,1.00
+17,"SUP0017","James Group","Mexico",17,0.82
+18,"SUP0018","Flowers, Martin and Kelly","Italy",25,0.80
+19,"SUP0019","Adams, Zuniga and Wong","France",19,0.74
+20,"SUP0020","Reid, Ferguson and Sanchez","Poland",6,0.92
+21,"SUP0021","Gray-Mayo","USA",24,0.91
+22,"SUP0022","Watts, Robinson and Nguyen","Netherlands",16,0.88
+23,"SUP0023","Perez Inc","Turkey",4,0.84
+24,"SUP0024","Morales-Jones","India",13,0.98
+25,"SUP0025","Walter, Edwards and Rios","South Korea",21,0.76
+26,"SUP0026","Wilkerson-Day","Bangladesh",20,0.87
+27,"SUP0027","Baker and Sons","United Kingdom",11,0.95
+28,"SUP0028","Hoffman, Baker and Richards","South Korea",27,0.97
+29,"SUP0029","Ross, Robinson and Bright","South Korea",10,0.88
+30,"SUP0030","Snyder, Campos and Callahan","China",20,0.98
+31,"SUP0031","Burton Ltd","Italy",13,0.89
+32,"SUP0032","Carlson-Cruz","Poland",8,0.80
+33,"SUP0033","Ferrell, Rice and Maddox","Vietnam",25,1.00
+34,"SUP0034","Frazier Inc","India",17,0.98
+35,"SUP0035","Dyer, Potter and Mack","China",21,0.85
+36,"SUP0036","Rodriguez-Graham","USA",21,1.00
+37,"SUP0037","Smith-Bowen","South Korea",17,1.00
+38,"SUP0038","Baker, Mason and White","Vietnam",2,0.97
+39,"SUP0039","Harrell LLC","Germany",18,0.88
+40,"SUP0040","Romero, Gonzalez and Brooks","Germany",18,0.74
+41,"SUP0041","Ryan PLC","Poland",16,0.93
+42,"SUP0042","George Group","Germany",31,0.86
+43,"SUP0043","Rodriguez LLC","Vietnam",10,0.86
+44,"SUP0044","Allen-Allen","Bangladesh",26,0.93
+45,"SUP0045","Arroyo, Miller and Tucker","Vietnam",13,0.94
+46,"SUP0046","Spence PLC","Turkey",18,0.98
+47,"SUP0047","Anderson Group","India",11,0.87
+48,"SUP0048","Martin, Rose and Obrien","South Korea",14,0.78
+49,"SUP0049","Hickman Ltd","United Kingdom",20,0.92
+50,"SUP0050","Harris, Collins and Carney","Italy",18,0.88
+51,"SUP0051","Brooks, Lam and Hayes","Netherlands",5,0.87
+52,"SUP0052","Walker LLC","France",14,0.84
+53,"SUP0053","Chapman and Sons","Germany",16,0.93
+54,"SUP0054","Robinson, Jones and Welch","Spain",34,0.91
+55,"SUP0055","Jones Inc","Poland",20,0.89
+56,"SUP0056","Jones-Young","Germany",2,0.90
+57,"SUP0057","Washington, Ryan and Cummings","France",18,1.00
+58,"SUP0058","Johnston, Sanchez and Kennedy","India",16,0.92
+59,"SUP0059","Lee-Davis","Bangladesh",17,0.81
+60,"SUP0060","Gomez-Jenkins","Mexico",28,0.96
+61,"SUP0061","Brown, Valdez and Lucas","Turkey",25,0.83
+62,"SUP0062","Powell LLC","Spain",30,0.79
+63,"SUP0063","Wright and Sons","Bangladesh",23,1.00
+64,"SUP0064","West, Henderson and Ramirez","Vietnam",9,0.85
+65,"SUP0065","Baxter Inc","Turkey",18,0.86
+66,"SUP0066","Morton-Chase","USA",4,0.91
+67,"SUP0067","Williams PLC","Italy",8,0.94
+68,"SUP0068","Novak and Sons","Germany",9,1.00
+69,"SUP0069","Russell Group","United Kingdom",10,0.87
+70,"SUP0070","Hancock Inc","Mexico",25,0.80
+71,"SUP0071","Gray Group","USA",20,1.00
+72,"SUP0072","House-Glover","South Korea",3,0.91
+73,"SUP0073","Henderson-Bernard","India",20,0.96
+74,"SUP0074","Stanley, Tucker and Lee","Germany",6,0.79
+75,"SUP0075","Novak PLC","Bangladesh",22,0.92
+76,"SUP0076","Daniels, Adkins and Brown","USA",20,0.93
+77,"SUP0077","Woods, Calhoun and Schmidt","Bangladesh",11,0.92
+78,"SUP0078","Yu Inc","Germany",20,0.84
+79,"SUP0079","Jones Inc","Poland",34,0.94
+80,"SUP0080","Hensley, Powell and David","India",7,0.95
+81,"SUP0081","Sanchez, Wheeler and Harvey","Netherlands",9,0.96
+82,"SUP0082","Sandoval-Cunningham","Mexico",28,0.83
+83,"SUP0083","Donovan-Harris","Bangladesh",26,0.93
+84,"SUP0084","Edwards, Baker and Anderson","Vietnam",25,1.00
+85,"SUP0085","Evans, Stewart and Walton","China",15,0.84
+86,"SUP0086","Smith PLC","Vietnam",9,0.83
+87,"SUP0087","Ferrell, Jones and Lewis","Vietnam",17,0.93
+88,"SUP0088","Anderson-Bailey","USA",20,0.97
+89,"SUP0089","Suarez LLC","Mexico",18,1.00
+90,"SUP0090","Moore-Bass","India",15,1.00
+91,"SUP0091","Turner, Riggs and Roman","Italy",23,0.83
+92,"SUP0092","Smith, Montoya and Evans","Spain",8,0.94
+93,"SUP0093","Garcia, Humphrey and Baker","Mexico",15,0.96
+94,"SUP0094","Newton and Sons","Mexico",22,0.89
+95,"SUP0095","Campbell-Clark","Germany",10,0.78
+96,"SUP0096","Harris-Walters","Turkey",13,0.97
+97,"SUP0097","Wagner-King","Mexico",19,0.80
+98,"SUP0098","Davis Group","China",19,0.93
+99,"SUP0099","Williams-Cook","France",10,0.91
+100,"SUP0100","Walsh LLC","Italy",18,0.81
+101,"SUP0101","Figueroa PLC","USA",21,0.94
+102,"SUP0102","Patterson, Smith and Jones","China",27,0.98
+103,"SUP0103","Mckee, Gardner and Davenport","Netherlands",5,0.82
+104,"SUP0104","Tran, Jordan and Williams","Poland",22,0.94
+105,"SUP0105","Nolan-Flynn","India",22,1.00
+106,"SUP0106","Nolan and Sons","Spain",23,0.99
+107,"SUP0107","Wright, Garcia and Deleon","Mexico",26,0.95
+108,"SUP0108","Dickson-Brady","Italy",15,0.96
+109,"SUP0109","Hancock and Sons","France",11,0.88
+110,"SUP0110","Johnson-Doyle","USA",13,0.91
+111,"SUP0111","Patton-Jenkins","Mexico",38,0.75
+112,"SUP0112","Shields, Cochran and Adams","Vietnam",24,0.77
+113,"SUP0113","Rodriguez, Brennan and Garrison","Bangladesh",13,0.99
+114,"SUP0114","Gonzalez Group","South Korea",18,0.81
+115,"SUP0115","Torres-Pope","South Korea",11,0.95
+116,"SUP0116","Walker Ltd","United Kingdom",11,0.92
+117,"SUP0117","Ross LLC","USA",18,0.85
+118,"SUP0118","Rasmussen LLC","Bangladesh",37,0.95
+119,"SUP0119","May-Ross","United Kingdom",2,0.91
+120,"SUP0120","Rivera, Johnson and Wiley","South Korea",12,0.97
