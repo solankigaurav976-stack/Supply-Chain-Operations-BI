@@ -79,6 +79,10 @@ The dashboard focuses on:
 | `*.pbix` | Power BI dashboard |
 | `Dashboard/` | Dashboard screenshots |
 
+## 📸 Dashboard Preview
+
+![Supply Chain & Operations Power BI Dashboard](Supply_Chain_Operations_Dashboard.png)
+
 ## 🚀 Skills Demonstrated
 
 - SQL
