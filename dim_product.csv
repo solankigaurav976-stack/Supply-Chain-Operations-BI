@@ -1,0 +1,1001 @@
+"product_key","product_id","product_name","category","supplier_id","cost","selling_price","reorder_level"
+1,"PRD00001","Pro T-Shirt","Apparel","SUP0028",68.65,89.85,75
+2,"PRD00002","Deluxe Pasta Pack","Grocery","SUP0084",1.99,3.92,50
+3,"PRD00003","Essential Desk Organizer","Office Supplies","SUP0019",75.57,133.91,25
+4,"PRD00004","Heavy-Duty Storage Box","Home & Kitchen","SUP0069",106.97,147.62,25
+5,"PRD00005","Classic Phone Mount","Automotive","SUP0052",71.01,102.09,25
+6,"PRD00006","Wireless Storage Box","Home & Kitchen","SUP0064",140.91,251.66,10
+7,"PRD00007","Compact Bookshelf","Furniture","SUP0081",602.67,879.87,20
+8,"PRD00008","Classic Sofa","Furniture","SUP0009",860.51,1551.86,50
+9,"PRD00009","Ultra Whiteboard","Office Supplies","SUP0033",50.78,86.77,75
+10,"PRD00010","Premium Coffee Beans","Grocery","SUP0088",17.36,24.93,75
+11,"PRD00011","Essential Desk","Furniture","SUP0015",336.48,611.85,25
+12,"PRD00012","Ultra Yoga Mat","Sports & Outdoors","SUP0093",10.23,13.68,100
+13,"PRD00013","Portable Scarf","Apparel","SUP0023",11.67,14.94,75
+14,"PRD00014","Essential Snack Box","Grocery","SUP0108",34.36,61.08,100
+15,"PRD00015","Eco Water Bottle","Sports & Outdoors","SUP0048",145.41,192.43,20
+16,"PRD00016","Portable Puzzle","Toys & Games","SUP0077",61.03,97.96,25
+17,"PRD00017","Compact Backpack","Sports & Outdoors","SUP0113",56.92,89.67,25
+18,"PRD00018","Eco Socks Pack","Apparel","SUP0011",62.78,107.47,10
+19,"PRD00019","Compact Phone Mount","Automotive","SUP0099",257.69,330.87,20
+20,"PRD00020","Ultra Storage Box","Home & Kitchen","SUP0022",98.66,169.64,25
+21,"PRD00021","Smart Building Blocks","Toys & Games","SUP0028",62.36,118.01,75
+22,"PRD00022","Heavy-Duty Bookshelf","Furniture","SUP0092",601.36,825.19,25
+23,"PRD00023","Essential Binder","Office Supplies","SUP0048",8.21,14.22,50
+24,"PRD00024","Ultra Coffee Beans","Grocery","SUP0032",2.03,3.43,20
+25,"PRD00025","Premium Monitor","Electronics","SUP0076",753.08,1266.38,20
+26,"PRD00026","Heavy-Duty Headphones","Electronics","SUP0030",319.71,553.89,10
+27,"PRD00027","Deluxe Coffee Beans","Grocery","SUP0066",18.87,31.31,20
+28,"PRD00028","Ultra Jacket","Apparel","SUP0070",141.51,217.87,20
+29,"PRD00029","Smart Phone Mount","Automotive","SUP0061",384.86,742.40,20
+30,"PRD00030","Classic Bookshelf","Furniture","SUP0013",196.32,255.61,10
+31,"PRD00031","Deluxe Hair Dryer","Health & Beauty","SUP0053",12.78,16.15,50
+32,"PRD00032","Premium Coffee Beans","Grocery","SUP0008",4.68,8.25,50
+33,"PRD00033","Compact Dash Cam","Automotive","SUP0025",37.76,56.23,20
+34,"PRD00034","Wireless Building Blocks","Toys & Games","SUP0024",102.01,129.29,25
+35,"PRD00035","Compact Tent","Sports & Outdoors","SUP0104",245.45,358.70,75
+36,"PRD00036","Essential Headphones","Electronics","SUP0012",107.76,191.01,20
+37,"PRD00037","Ultra Toaster","Home & Kitchen","SUP0028",160.20,305.68,50
+38,"PRD00038","Wireless Tea Set","Grocery","SUP0001",29.67,54.97,50
+39,"PRD00039","Ultra Trousers","Apparel","SUP0055",45.90,63.48,100
+40,"PRD00040","Portable Tea Set","Grocery","SUP0020",30.27,56.15,20
+41,"PRD00041","Premium Socks Pack","Apparel","SUP0095",148.62,231.77,75
+42,"PRD00042","Deluxe Headphones","Electronics","SUP0007",307.03,562.57,75
+43,"PRD00043","Portable Water Bottle","Sports & Outdoors","SUP0008",106.20,206.88,75
+44,"PRD00044","Wireless Charger","Electronics","SUP0077",688.85,1082.70,10
+45,"PRD00045","Eco Hair Dryer","Health & Beauty","SUP0016",75.83,137.70,75
+46,"PRD00046","Smart T-Shirt","Apparel","SUP0080",19.95,38.44,10
+47,"PRD00047","Smart Whiteboard","Office Supplies","SUP0067",46.46,86.87,25
+48,"PRD00048","Eco Snack Box","Grocery","SUP0031",13.48,25.90,25
+49,"PRD00049","Essential Binder","Office Supplies","SUP0039",36.25,45.61,50
+50,"PRD00050","Compact T-Shirt","Apparel","SUP0059",136.28,179.68,75
+51,"PRD00051","Compact Coffee Beans","Grocery","SUP0069",13.45,26.40,20
+52,"PRD00052","Wireless Backpack","Sports & Outdoors","SUP0113",285.48,479.63,10
+53,"PRD00053","Deluxe Snack Box","Grocery","SUP0021",25.64,40.67,50
+54,"PRD00054","Heavy-Duty Desk","Furniture","SUP0079",281.56,421.35,100
+55,"PRD00055","Essential Card Game","Toys & Games","SUP0039",82.01,148.79,100
+56,"PRD00056","Wireless Router","Electronics","SUP0015",636.39,1172.37,10
+57,"PRD00057","Wireless Tyre Inflator","Automotive","SUP0037",45.57,73.86,75
+58,"PRD00058","Deluxe Kettle","Home & Kitchen","SUP0088",21.93,36.45,100
+59,"PRD00059","Portable Tea Set","Grocery","SUP0033",18.22,34.91,10
+60,"PRD00060","Classic Router","Electronics","SUP0006",290.47,388.59,10
+61,"PRD00061","Wireless Cap","Apparel","SUP0034",25.73,46.86,20
+62,"PRD00062","Portable Seat Cover","Automotive","SUP0072",251.11,332.93,10
+63,"PRD00063","Heavy-Duty Speaker","Electronics","SUP0070",81.02,143.87,10
+64,"PRD00064","Smart Sofa","Furniture","SUP0019",88.67,165.49,50
+65,"PRD00065","Pro Cookware Set","Home & Kitchen","SUP0116",178.91,234.55,10
+66,"PRD00066","Eco Pasta Pack","Grocery","SUP0086",4.31,8.58,10
+67,"PRD00067","Portable Desk Organizer","Office Supplies","SUP0080",34.94,53.39,100
+68,"PRD00068","Eco Air Fryer","Home & Kitchen","SUP0021",204.70,401.30,20
+69,"PRD00069","Premium Pasta Pack","Grocery","SUP0095",39.45,71.60,25
+70,"PRD00070","Classic TV Stand","Furniture","SUP0111",354.23,464.97,100
+71,"PRD00071","Pro Bookshelf","Furniture","SUP0101",705.00,1176.51,100
+72,"PRD00072","Premium Power Bank","Electronics","SUP0029",348.01,671.58,20
+73,"PRD00073","Ultra Desk","Furniture","SUP0040",122.30,198.06,20
+74,"PRD00074","Essential Jacket","Apparel","SUP0052",6.65,10.65,25
+75,"PRD00075","Compact Scarf","Apparel","SUP0036",13.16,17.62,25
+76,"PRD00076","Classic Vitamin Pack","Health & Beauty","SUP0043",14.40,25.01,10
+77,"PRD00077","Pro Speaker","Electronics","SUP0075",600.65,1013.61,25
+78,"PRD00078","Smart Tablet Stand","Electronics","SUP0045",770.31,1179.46,100
+79,"PRD00079","Classic Sofa","Furniture","SUP0066",275.00,522.90,10
+80,"PRD00080","Smart Stapler","Office Supplies","SUP0033",21.68,42.76,10
+81,"PRD00081","Premium Phone Mount","Automotive","SUP0119",14.74,29.15,75
+82,"PRD00082","Heavy-Duty Dash Cam","Automotive","SUP0047",26.83,51.47,50
+83,"PRD00083","Essential Webcam","Electronics","SUP0080",429.25,856.24,25
+84,"PRD00084","Compact Electric Toothbrush","Health & Beauty","SUP0065",10.16,16.92,25
+85,"PRD00085","Deluxe Hair Dryer","Health & Beauty","SUP0090",97.02,159.34,25
+86,"PRD00086","Eco Building Blocks","Toys & Games","SUP0086",77.01,136.45,50
+87,"PRD00087","Wireless Vitamin Pack","Health & Beauty","SUP0073",47.09,81.03,25
+88,"PRD00088","Premium Pen Set","Office Supplies","SUP0037",53.42,102.88,20
+89,"PRD00089","Smart Bike Light","Sports & Outdoors","SUP0084",19.36,28.28,25
+90,"PRD00090","Ultra Resistance Bands","Sports & Outdoors","SUP0028",285.42,547.35,75
+91,"PRD00091","Heavy-Duty Water Bottle","Sports & Outdoors","SUP0085",139.96,240.05,10
+92,"PRD00092","Essential Cap","Apparel","SUP0080",45.22,62.91,25
+93,"PRD00093","Eco Router","Electronics","SUP0029",379.00,574.19,20
+94,"PRD00094","Premium Kettle","Home & Kitchen","SUP0061",149.24,195.25,75
+95,"PRD00095","Compact Bed Frame","Furniture","SUP0054",877.60,1746.12,100
+96,"PRD00096","Heavy-Duty Building Blocks","Toys & Games","SUP0064",84.99,140.41,50
+97,"PRD00097","Essential Cap","Apparel","SUP0001",49.88,92.79,10
+98,"PRD00098","Eco Bookshelf","Furniture","SUP0103",624.14,856.30,100
+99,"PRD00099","Premium Bike Light","Sports & Outdoors","SUP0032",273.81,511.18,10
+100,"PRD00100","Ultra Resistance Bands","Sports & Outdoors","SUP0068",285.24,511.80,75
+101,"PRD00101","Ultra Card Game","Toys & Games","SUP0105",75.16,117.53,100
+102,"PRD00102","Classic Spice Kit","Grocery","SUP0058",37.38,71.01,20
+103,"PRD00103","Ultra Seat Cover","Automotive","SUP0034",27.64,35.10,20
+104,"PRD00104","Pro Sofa","Furniture","SUP0063",354.41,658.46,100
+105,"PRD00105","Ultra T-Shirt","Apparel","SUP0092",148.16,201.91,25
+106,"PRD00106","Deluxe Trousers","Apparel","SUP0115",91.15,139.98,75
+107,"PRD00107","Wireless Monitor","Electronics","SUP0050",776.38,1460.83,100
+108,"PRD00108","Eco Blender","Home & Kitchen","SUP0054",210.88,337.73,50
+109,"PRD00109","Ultra Hoodie","Apparel","SUP0008",65.15,94.80,20
+110,"PRD00110","Classic Sofa","Furniture","SUP0090",74.33,141.12,10
+111,"PRD00111","Smart Tea Set","Grocery","SUP0062",32.70,65.39,10
+112,"PRD00112","Pro Tea Set","Grocery","SUP0110",39.87,66.45,50
+113,"PRD00113","Heavy-Duty Card Game","Toys & Games","SUP0103",93.20,182.54,75
+114,"PRD00114","Ultra Pasta Pack","Grocery","SUP0035",34.14,49.01,50
+115,"PRD00115","Classic Backpack","Sports & Outdoors","SUP0086",138.46,186.49,100
+116,"PRD00116","Heavy-Duty Bookshelf","Furniture","SUP0108",859.79,1465.62,50
+117,"PRD00117","Smart Spice Kit","Grocery","SUP0004",9.92,17.40,50
+118,"PRD00118","Essential Puzzle","Toys & Games","SUP0011",75.70,114.96,100
+119,"PRD00119","Ultra Water Bottle","Sports & Outdoors","SUP0007",39.39,69.08,25
+120,"PRD00120","Eco Desk Organizer","Office Supplies","SUP0042",47.79,87.42,25
+121,"PRD00121","Classic Desk","Furniture","SUP0097",480.14,907.05,50
+122,"PRD00122","Compact Hoodie","Apparel","SUP0003",85.03,142.06,100
+123,"PRD00123","Deluxe Board Game","Toys & Games","SUP0084",105.69,164.10,10
+124,"PRD00124","Essential Office Chair","Furniture","SUP0097",142.26,180.90,10
+125,"PRD00125","Eco Coffee Beans","Grocery","SUP0080",30.45,52.23,20
+126,"PRD00126","Ultra Cap","Apparel","SUP0015",107.09,150.97,75
+127,"PRD00127","Ultra Snack Box","Grocery","SUP0099",6.32,7.97,25
+128,"PRD00128","Smart Cutting Board","Home & Kitchen","SUP0092",92.84,157.13,10
+129,"PRD00129","Wireless Desk","Furniture","SUP0014",368.21,581.07,75
+130,"PRD00130","Pro Tablet Stand","Electronics","SUP0051",724.76,1095.25,100
+131,"PRD00131","Smart Cutting Board","Home & Kitchen","SUP0107",132.39,243.30,100
+132,"PRD00132","Heavy-Duty Scarf","Apparel","SUP0039",62.50,107.29,100
+133,"PRD00133","Compact Vitamin Pack","Health & Beauty","SUP0101",86.65,170.02,10
+134,"PRD00134","Classic Binder","Office Supplies","SUP0048",14.94,29.06,10
+135,"PRD00135","Deluxe Yoga Mat","Sports & Outdoors","SUP0109",150.68,217.53,50
+136,"PRD00136","Compact Bed Frame","Furniture","SUP0047",426.74,847.09,100
+137,"PRD00137","Ultra Pasta Pack","Grocery","SUP0056",20.21,30.25,20
+138,"PRD00138","Essential Tyre Inflator","Automotive","SUP0079",257.03,367.58,75
+139,"PRD00139","Ultra Bed Frame","Furniture","SUP0106",91.38,123.06,100
+140,"PRD00140","Deluxe Board Game","Toys & Games","SUP0107",18.85,25.71,10
+141,"PRD00141","Ultra Jacket","Apparel","SUP0097",25.13,43.49,50
+142,"PRD00142","Essential Building Blocks","Toys & Games","SUP0044",25.10,37.88,10
+143,"PRD00143","Deluxe Water Bottle","Sports & Outdoors","SUP0063",269.66,432.93,20
+144,"PRD00144","Pro Pen Set","Office Supplies","SUP0036",60.75,83.79,75
+145,"PRD00145","Pro Phone Mount","Automotive","SUP0002",84.99,108.84,75
+146,"PRD00146","Compact Pasta Pack","Grocery","SUP0093",7.59,11.07,50
+147,"PRD00147","Eco Resistance Bands","Sports & Outdoors","SUP0061",58.04,76.41,100
+148,"PRD00148","Ultra Car Vacuum","Automotive","SUP0012",57.05,91.03,25
+149,"PRD00149","Heavy-Duty Jacket","Apparel","SUP0040",34.92,53.19,100
+150,"PRD00150","Ultra Card Game","Toys & Games","SUP0068",62.40,110.31,25
+151,"PRD00151","Heavy-Duty Bike Light","Sports & Outdoors","SUP0043",17.56,32.48,25
+152,"PRD00152","Pro Tyre Inflator","Automotive","SUP0033",254.88,334.23,20
+153,"PRD00153","Eco Cookware Set","Home & Kitchen","SUP0016",219.41,425.80,100
+154,"PRD00154","Heavy-Duty Board Game","Toys & Games","SUP0025",11.09,16.17,20
+155,"PRD00155","Pro Phone Mount","Automotive","SUP0098",324.42,587.59,75
+156,"PRD00156","Compact Board Game","Toys & Games","SUP0038",25.40,35.74,20
+157,"PRD00157","Pro Notebook","Office Supplies","SUP0091",34.60,55.82,75
+158,"PRD00158","Premium Blender","Home & Kitchen","SUP0071",157.62,240.64,25
+159,"PRD00159","Wireless Seat Cover","Automotive","SUP0014",190.39,344.72,10
+160,"PRD00160","Ultra Building Blocks","Toys & Games","SUP0057",8.26,11.89,25
+161,"PRD00161","Premium Cookware Set","Home & Kitchen","SUP0111",180.63,347.06,50
+162,"PRD00162","Compact Tablet Stand","Electronics","SUP0063",416.67,687.12,10
+163,"PRD00163","Essential Puzzle","Toys & Games","SUP0020",16.43,26.05,20
+164,"PRD00164","Pro Office Chair","Furniture","SUP0032",491.04,703.10,10
+165,"PRD00165","Classic Card Game","Toys & Games","SUP0077",35.23,54.01,75
+166,"PRD00166","Portable Hoodie","Apparel","SUP0058",7.91,11.80,50
+167,"PRD00167","Smart Hoodie","Apparel","SUP0040",35.66,53.33,75
+168,"PRD00168","Smart Shampoo","Health & Beauty","SUP0098",14.62,28.04,20
+169,"PRD00169","Pro Shampoo","Health & Beauty","SUP0021",60.58,106.58,20
+170,"PRD00170","Compact Kettle","Home & Kitchen","SUP0001",198.98,323.11,50
+171,"PRD00171","Smart Tent","Sports & Outdoors","SUP0038",31.55,52.15,10
+172,"PRD00172","Heavy-Duty Trousers","Apparel","SUP0090",90.09,162.98,50
+173,"PRD00173","Eco Router","Electronics","SUP0101",353.85,476.17,100
+174,"PRD00174","Eco Building Blocks","Toys & Games","SUP0015",36.92,56.20,75
+175,"PRD00175","Wireless Trousers","Apparel","SUP0106",98.66,165.56,20
+176,"PRD00176","Wireless Router","Electronics","SUP0077",294.54,586.10,100
+177,"PRD00177","Pro Bed Frame","Furniture","SUP0016",555.05,792.57,50
+178,"PRD00178","Heavy-Duty Seat Cover","Automotive","SUP0035",49.70,67.82,75
+179,"PRD00179","Ultra Puzzle","Toys & Games","SUP0077",32.53,44.58,10
+180,"PRD00180","Heavy-Duty Snack Box","Grocery","SUP0078",8.28,12.12,25
+181,"PRD00181","Eco Headphones","Electronics","SUP0098",151.10,290.50,100
+182,"PRD00182","Smart Office Chair","Furniture","SUP0098",95.20,156.45,20
+183,"PRD00183","Essential Tent","Sports & Outdoors","SUP0118",126.66,251.65,25
+184,"PRD00184","Smart Toaster","Home & Kitchen","SUP0082",35.11,54.36,50
+185,"PRD00185","Ultra Snack Box","Grocery","SUP0053",38.81,73.71,25
+186,"PRD00186","Compact Scarf","Apparel","SUP0021",123.48,178.23,25
+187,"PRD00187","Ultra Pen Set","Office Supplies","SUP0085",17.04,29.85,50
+188,"PRD00188","Portable Office Chair","Furniture","SUP0059",838.20,1397.76,10
+189,"PRD00189","Deluxe T-Shirt","Apparel","SUP0099",87.88,128.30,50
+190,"PRD00190","Premium Spice Kit","Grocery","SUP0060",31.01,43.11,50
+191,"PRD00191","Portable Webcam","Electronics","SUP0080",269.09,422.22,50
+192,"PRD00192","Premium Moisturizer","Health & Beauty","SUP0035",52.24,74.80,75
+193,"PRD00193","Pro Toaster","Home & Kitchen","SUP0113",35.79,61.13,100
+194,"PRD00194","Premium Resistance Bands","Sports & Outdoors","SUP0078",90.86,153.18,20
+195,"PRD00195","Pro Phone Mount","Automotive","SUP0002",70.20,113.08,75
+196,"PRD00196","Eco Notebook","Office Supplies","SUP0060",48.87,62.99,10
+197,"PRD00197","Wireless Hair Dryer","Health & Beauty","SUP0120",35.65,48.16,100
+198,"PRD00198","Heavy-Duty Trousers","Apparel","SUP0054",14.19,28.27,50
+199,"PRD00199","Eco Tea Set","Grocery","SUP0071",13.57,25.20,20
+200,"PRD00200","Smart Whiteboard","Office Supplies","SUP0096",24.41,42.99,20
+201,"PRD00201","Pro Tea Set","Grocery","SUP0044",30.65,52.00,75
+202,"PRD00202","Premium Trousers","Apparel","SUP0093",73.38,114.39,25
+203,"PRD00203","Smart TV Stand","Furniture","SUP0063",330.26,643.06,20
+204,"PRD00204","Ultra Backpack","Sports & Outdoors","SUP0043",250.20,493.84,75
+205,"PRD00205","Classic Bed Frame","Furniture","SUP0120",133.76,240.52,25
+206,"PRD00206","Heavy-Duty Pasta Pack","Grocery","SUP0074",37.60,52.11,50
+207,"PRD00207","Classic T-Shirt","Apparel","SUP0041",14.64,26.44,100
+208,"PRD00208","Classic Tent","Sports & Outdoors","SUP0085",174.90,329.05,100
+209,"PRD00209","Ultra Coffee Beans","Grocery","SUP0017",6.45,11.91,75
+210,"PRD00210","Deluxe Coffee Beans","Grocery","SUP0112",8.86,12.16,50
+211,"PRD00211","Ultra Headphones","Electronics","SUP0093",143.95,267.88,20
+212,"PRD00212","Essential Stapler","Office Supplies","SUP0010",60.54,99.42,50
+213,"PRD00213","Pro Desk","Furniture","SUP0080",338.98,646.74,100
+214,"PRD00214","Compact Pen Set","Office Supplies","SUP0110",36.54,68.05,100
+215,"PRD00215","Classic Snack Box","Grocery","SUP0081",18.13,27.79,100
+216,"PRD00216","Ultra Spice Kit","Grocery","SUP0005",19.04,28.10,75
+217,"PRD00217","Essential Router","Electronics","SUP0030",601.87,979.27,100
+218,"PRD00218","Compact Charger","Electronics","SUP0057",197.29,379.72,20
+219,"PRD00219","Premium Car Vacuum","Automotive","SUP0042",159.72,264.76,10
+220,"PRD00220","Deluxe Hoodie","Apparel","SUP0019",136.44,234.43,20
+221,"PRD00221","Smart Board Game","Toys & Games","SUP0022",17.56,34.33,20
+222,"PRD00222","Classic Monitor","Electronics","SUP0064",507.75,762.22,75
+223,"PRD00223","Ultra Cutting Board","Home & Kitchen","SUP0033",41.70,76.96,50
+224,"PRD00224","Premium Scarf","Apparel","SUP0060",94.91,156.61,25
+225,"PRD00225","Wireless Shampoo","Health & Beauty","SUP0057",89.71,165.20,25
+226,"PRD00226","Pro Tea Set","Grocery","SUP0089",6.92,10.27,25
+227,"PRD00227","Pro Water Bottle","Sports & Outdoors","SUP0050",79.06,142.94,50
+228,"PRD00228","Classic Webcam","Electronics","SUP0074",41.32,69.31,25
+229,"PRD00229","Pro Coffee Beans","Grocery","SUP0107",30.74,58.64,100
+230,"PRD00230","Premium Whiteboard","Office Supplies","SUP0111",32.10,59.90,100
+231,"PRD00231","Premium Sofa","Furniture","SUP0096",121.80,229.57,50
+232,"PRD00232","Pro Bookshelf","Furniture","SUP0078",136.55,211.37,25
+233,"PRD00233","Eco Storage Box","Home & Kitchen","SUP0033",200.95,273.78,100
+234,"PRD00234","Essential TV Stand","Furniture","SUP0108",225.59,404.19,20
+235,"PRD00235","Essential Shampoo","Health & Beauty","SUP0040",72.84,126.08,50
+236,"PRD00236","Deluxe Speaker","Electronics","SUP0012",559.75,927.53,25
+237,"PRD00237","Classic Jacket","Apparel","SUP0026",41.51,62.65,20
+238,"PRD00238","Deluxe Sofa","Furniture","SUP0065",183.90,355.17,25
+239,"PRD00239","Pro Bed Frame","Furniture","SUP0104",535.47,830.32,25
+240,"PRD00240","Deluxe Car Vacuum","Automotive","SUP0060",190.18,372.84,10
+241,"PRD00241","Eco Air Fryer","Home & Kitchen","SUP0087",45.11,76.22,100
+242,"PRD00242","Classic Vitamin Pack","Health & Beauty","SUP0047",52.07,88.97,10
+243,"PRD00243","Premium Desk","Furniture","SUP0069",40.85,77.78,10
+244,"PRD00244","Essential Resistance Bands","Sports & Outdoors","SUP0087",280.04,468.74,25
+245,"PRD00245","Essential Action Figure","Toys & Games","SUP0014",84.81,164.69,100
+246,"PRD00246","Premium Socks Pack","Apparel","SUP0114",107.55,146.74,75
+247,"PRD00247","Smart Jacket","Apparel","SUP0083",88.56,151.00,10
+248,"PRD00248","Ultra Electric Toothbrush","Health & Beauty","SUP0084",44.14,79.55,50
+249,"PRD00249","Premium Headphones","Electronics","SUP0039",748.48,1455.18,50
+250,"PRD00250","Eco Speaker","Electronics","SUP0050",368.91,492.47,50
+251,"PRD00251","Heavy-Duty Binder","Office Supplies","SUP0070",88.67,166.63,50
+252,"PRD00252","Heavy-Duty Board Game","Toys & Games","SUP0114",18.46,35.82,50
+253,"PRD00253","Ultra Vitamin Pack","Health & Beauty","SUP0053",87.38,143.23,25
+254,"PRD00254","Deluxe Monitor","Electronics","SUP0057",479.15,742.32,50
+255,"PRD00255","Deluxe Coffee Beans","Grocery","SUP0088",3.14,4.71,25
+256,"PRD00256","Essential Action Figure","Toys & Games","SUP0008",97.13,121.75,50
+257,"PRD00257","Compact Scarf","Apparel","SUP0106",53.36,82.63,50
+258,"PRD00258","Eco Headphones","Electronics","SUP0007",436.86,847.46,25
+259,"PRD00259","Wireless Scarf","Apparel","SUP0073",55.22,83.39,20
+260,"PRD00260","Portable Monitor","Electronics","SUP0076",593.94,943.87,20
+261,"PRD00261","Eco Desk","Furniture","SUP0100",221.53,352.08,20
+262,"PRD00262","Smart Office Chair","Furniture","SUP0036",148.25,204.92,20
+263,"PRD00263","Portable Snack Box","Grocery","SUP0103",20.44,31.97,20
+264,"PRD00264","Premium Speaker","Electronics","SUP0002",733.15,1115.70,25
+265,"PRD00265","Eco Sofa","Furniture","SUP0042",533.01,919.01,10
+266,"PRD00266","Premium Kettle","Home & Kitchen","SUP0095",11.17,19.52,50
+267,"PRD00267","Heavy-Duty Puzzle","Toys & Games","SUP0061",24.65,48.58,50
+268,"PRD00268","Portable Sofa","Furniture","SUP0014",155.08,242.07,50
+269,"PRD00269","Smart Yoga Mat","Sports & Outdoors","SUP0094",31.09,62.11,100
+270,"PRD00270","Ultra Puzzle","Toys & Games","SUP0008",62.25,105.61,50
+271,"PRD00271","Classic TV Stand","Furniture","SUP0014",83.69,151.69,50
+272,"PRD00272","Ultra Car Vacuum","Automotive","SUP0116",91.86,176.70,10
+273,"PRD00273","Wireless T-Shirt","Apparel","SUP0017",34.75,48.41,25
+274,"PRD00274","Smart Vitamin Pack","Health & Beauty","SUP0092",6.55,10.51,25
+275,"PRD00275","Smart Whiteboard","Office Supplies","SUP0038",51.71,67.19,50
+276,"PRD00276","Classic Yoga Mat","Sports & Outdoors","SUP0102",234.01,372.07,100
+277,"PRD00277","Essential Monitor","Electronics","SUP0056",426.65,674.35,50
+278,"PRD00278","Classic Snack Box","Grocery","SUP0106",16.63,27.77,50
+279,"PRD00279","Heavy-Duty Notebook","Office Supplies","SUP0041",15.66,21.71,50
+280,"PRD00280","Pro Trousers","Apparel","SUP0020",129.96,254.67,100
+281,"PRD00281","Compact Coffee Beans","Grocery","SUP0107",15.56,22.61,10
+282,"PRD00282","Compact Webcam","Electronics","SUP0104",520.54,810.25,20
+283,"PRD00283","Smart Card Game","Toys & Games","SUP0072",6.94,9.49,25
+284,"PRD00284","Classic Electric Toothbrush","Health & Beauty","SUP0112",72.45,126.37,100
+285,"PRD00285","Classic Coffee Beans","Grocery","SUP0037",2.06,2.92,75
+286,"PRD00286","Compact Socks Pack","Apparel","SUP0065",38.51,67.54,20
+287,"PRD00287","Ultra Kettle","Home & Kitchen","SUP0109",12.77,16.96,10
+288,"PRD00288","Portable Pen Set","Office Supplies","SUP0015",72.39,100.18,25
+289,"PRD00289","Classic Card Game","Toys & Games","SUP0099",79.72,113.89,75
+290,"PRD00290","Essential Vitamin Pack","Health & Beauty","SUP0004",12.65,18.12,75
+291,"PRD00291","Heavy-Duty Snack Box","Grocery","SUP0004",29.17,55.18,20
+292,"PRD00292","Pro Trousers","Apparel","SUP0045",125.38,194.07,10
+293,"PRD00293","Wireless Storage Box","Home & Kitchen","SUP0085",169.68,238.19,50
+294,"PRD00294","Heavy-Duty Headphones","Electronics","SUP0012",245.12,471.18,100
+295,"PRD00295","Classic Building Blocks","Toys & Games","SUP0059",5.51,7.24,25
+296,"PRD00296","Pro Cutting Board","Home & Kitchen","SUP0042",58.31,74.05,75
+297,"PRD00297","Premium Board Game","Toys & Games","SUP0021",25.05,42.27,75
+298,"PRD00298","Compact Router","Electronics","SUP0057",345.82,663.80,100
+299,"PRD00299","Smart Tent","Sports & Outdoors","SUP0054",246.33,371.06,25
+300,"PRD00300","Portable Blender","Home & Kitchen","SUP0045",70.78,108.63,50
+301,"PRD00301","Essential Power Bank","Electronics","SUP0068",478.38,694.15,100
+302,"PRD00302","Eco Hoodie","Apparel","SUP0077",95.50,148.70,10
+303,"PRD00303","Pro Monitor","Electronics","SUP0099",448.36,707.11,20
+304,"PRD00304","Pro Desk","Furniture","SUP0016",282.66,554.39,10
+305,"PRD00305","Classic Water Bottle","Sports & Outdoors","SUP0017",230.50,312.35,50
+306,"PRD00306","Eco Card Game","Toys & Games","SUP0072",104.74,169.22,100
+307,"PRD00307","Compact Bed Frame","Furniture","SUP0111",807.73,1494.21,100
+308,"PRD00308","Premium Power Bank","Electronics","SUP0118",348.79,441.87,10
+309,"PRD00309","Smart Tea Set","Grocery","SUP0074",11.48,19.01,50
+310,"PRD00310","Classic Tyre Inflator","Automotive","SUP0015",257.06,371.04,50
+311,"PRD00311","Deluxe Speaker","Electronics","SUP0103",124.39,233.38,75
+312,"PRD00312","Heavy-Duty Backpack","Sports & Outdoors","SUP0012",295.41,485.73,50
+313,"PRD00313","Eco Bed Frame","Furniture","SUP0076",175.22,254.81,50
+314,"PRD00314","Classic Action Figure","Toys & Games","SUP0096",6.13,11.87,25
+315,"PRD00315","Wireless T-Shirt","Apparel","SUP0066",22.07,37.13,100
+316,"PRD00316","Portable Monitor","Electronics","SUP0116",230.13,383.31,25
+317,"PRD00317","Essential Stapler","Office Supplies","SUP0031",59.32,111.07,10
+318,"PRD00318","Eco Kettle","Home & Kitchen","SUP0078",57.95,72.92,20
+319,"PRD00319","Essential Office Chair","Furniture","SUP0023",144.77,278.68,100
+320,"PRD00320","Smart Bike Light","Sports & Outdoors","SUP0058",262.92,446.45,100
+321,"PRD00321","Smart Spice Kit","Grocery","SUP0042",24.42,42.71,100
+322,"PRD00322","Ultra T-Shirt","Apparel","SUP0061",30.43,58.91,50
+323,"PRD00323","Pro Vitamin Pack","Health & Beauty","SUP0008",43.62,67.06,25
+324,"PRD00324","Pro Tent","Sports & Outdoors","SUP0058",158.56,203.79,10
+325,"PRD00325","Pro Charger","Electronics","SUP0083",145.53,262.47,10
+326,"PRD00326","Portable Hair Dryer","Health & Beauty","SUP0060",11.03,18.78,75
+327,"PRD00327","Heavy-Duty Puzzle","Toys & Games","SUP0058",32.46,50.05,75
+328,"PRD00328","Deluxe Vitamin Pack","Health & Beauty","SUP0061",31.00,47.02,75
+329,"PRD00329","Premium Toaster","Home & Kitchen","SUP0014",182.01,268.07,25
+330,"PRD00330","Compact Spice Kit","Grocery","SUP0083",23.09,37.11,20
+331,"PRD00331","Heavy-Duty Power Bank","Electronics","SUP0057",535.98,1046.57,75
+332,"PRD00332","Wireless Action Figure","Toys & Games","SUP0048",88.98,125.57,25
+333,"PRD00333","Deluxe Binder","Office Supplies","SUP0077",4.74,6.86,10
+334,"PRD00334","Essential Desk","Furniture","SUP0009",545.69,703.16,25
+335,"PRD00335","Essential Tablet Stand","Electronics","SUP0037",404.65,686.95,25
+336,"PRD00336","Essential Phone Mount","Automotive","SUP0112",140.36,256.60,20
+337,"PRD00337","Smart Cap","Apparel","SUP0019",20.46,26.73,25
+338,"PRD00338","Essential Cap","Apparel","SUP0085",110.59,179.33,50
+339,"PRD00339","Heavy-Duty Blender","Home & Kitchen","SUP0040",174.59,275.17,75
+340,"PRD00340","Deluxe Stapler","Office Supplies","SUP0086",23.68,44.15,100
+341,"PRD00341","Heavy-Duty TV Stand","Furniture","SUP0117",724.49,1283.09,75
+342,"PRD00342","Essential Tablet Stand","Electronics","SUP0066",228.63,387.00,25
+343,"PRD00343","Pro Speaker","Electronics","SUP0028",298.36,393.44,25
+344,"PRD00344","Ultra Pasta Pack","Grocery","SUP0029",36.78,49.75,20
+345,"PRD00345","Pro Air Fryer","Home & Kitchen","SUP0101",237.96,377.05,10
+346,"PRD00346","Portable Resistance Bands","Sports & Outdoors","SUP0114",60.43,100.10,75
+347,"PRD00347","Deluxe Speaker","Electronics","SUP0077",700.26,1259.89,50
+348,"PRD00348","Wireless Air Fryer","Home & Kitchen","SUP0089",203.19,354.38,75
+349,"PRD00349","Wireless TV Stand","Furniture","SUP0057",630.74,1190.14,10
+350,"PRD00350","Essential Binder","Office Supplies","SUP0031",23.97,38.76,50
+351,"PRD00351","Heavy-Duty Hair Dryer","Health & Beauty","SUP0030",24.46,48.69,75
+352,"PRD00352","Ultra Scarf","Apparel","SUP0025",141.89,181.56,25
+353,"PRD00353","Smart Hair Dryer","Health & Beauty","SUP0060",71.44,138.87,25
+354,"PRD00354","Portable Sofa","Furniture","SUP0054",183.00,306.70,20
+355,"PRD00355","Smart Bookshelf","Furniture","SUP0112",826.05,1053.59,25
+356,"PRD00356","Ultra Webcam","Electronics","SUP0071",562.47,828.52,10
+357,"PRD00357","Portable Car Vacuum","Automotive","SUP0037",370.51,732.98,10
+358,"PRD00358","Pro Bed Frame","Furniture","SUP0116",851.23,1366.79,75
+359,"PRD00359","Classic Blender","Home & Kitchen","SUP0117",216.61,407.97,20
+360,"PRD00360","Deluxe Office Chair","Furniture","SUP0054",304.21,569.39,10
+361,"PRD00361","Deluxe Stapler","Office Supplies","SUP0050",5.26,8.93,10
+362,"PRD00362","Premium Pen Set","Office Supplies","SUP0120",22.24,29.81,10
+363,"PRD00363","Essential Desk","Furniture","SUP0102",92.33,163.63,20
+364,"PRD00364","Pro Air Fryer","Home & Kitchen","SUP0061",90.25,161.87,100
+365,"PRD00365","Heavy-Duty Bed Frame","Furniture","SUP0058",82.19,122.17,75
+366,"PRD00366","Compact Headphones","Electronics","SUP0033",438.50,808.17,20
+367,"PRD00367","Portable TV Stand","Furniture","SUP0078",303.91,522.55,75
+368,"PRD00368","Pro Water Bottle","Sports & Outdoors","SUP0039",266.48,456.19,10
+369,"PRD00369","Classic Power Bank","Electronics","SUP0009",197.87,250.96,10
+370,"PRD00370","Ultra Sofa","Furniture","SUP0069",786.34,995.47,10
+371,"PRD00371","Smart Moisturizer","Health & Beauty","SUP0092",87.85,144.66,20
+372,"PRD00372","Premium Socks Pack","Apparel","SUP0046",141.16,261.02,20
+373,"PRD00373","Wireless Puzzle","Toys & Games","SUP0068",119.76,181.20,25
+374,"PRD00374","Portable Headphones","Electronics","SUP0050",617.24,957.62,50
+375,"PRD00375","Classic Webcam","Electronics","SUP0033",391.70,673.97,100
+376,"PRD00376","Compact Webcam","Electronics","SUP0031",700.84,1393.31,100
+377,"PRD00377","Compact Vitamin Pack","Health & Beauty","SUP0095",77.52,121.19,25
+378,"PRD00378","Deluxe Storage Box","Home & Kitchen","SUP0044",109.97,198.30,100
+379,"PRD00379","Essential Toaster","Home & Kitchen","SUP0090",65.78,87.68,50
+380,"PRD00380","Wireless Shampoo","Health & Beauty","SUP0092",37.40,54.81,50
+381,"PRD00381","Eco Headphones","Electronics","SUP0102",247.60,352.88,20
+382,"PRD00382","Deluxe Snack Box","Grocery","SUP0066",2.64,3.34,50
+383,"PRD00383","Portable Tea Set","Grocery","SUP0033",39.52,62.08,10
+384,"PRD00384","Eco Desk","Furniture","SUP0046",361.29,635.77,10
+385,"PRD00385","Deluxe Snack Box","Grocery","SUP0016",9.51,18.66,25
+386,"PRD00386","Classic Resistance Bands","Sports & Outdoors","SUP0057",237.19,312.39,50
+387,"PRD00387","Wireless Hoodie","Apparel","SUP0089",65.55,125.16,50
+388,"PRD00388","Portable Pen Set","Office Supplies","SUP0103",85.14,136.27,10
+389,"PRD00389","Compact Seat Cover","Automotive","SUP0078",249.23,342.76,20
+390,"PRD00390","Deluxe Puzzle","Toys & Games","SUP0011",118.98,169.40,25
+391,"PRD00391","Pro Hair Dryer","Health & Beauty","SUP0078",94.44,164.06,100
+392,"PRD00392","Heavy-Duty Tent","Sports & Outdoors","SUP0045",184.67,301.85,50
+393,"PRD00393","Deluxe Tablet Stand","Electronics","SUP0036",196.08,271.06,100
+394,"PRD00394","Premium Coffee Beans","Grocery","SUP0086",9.60,13.34,100
+395,"PRD00395","Portable Binder","Office Supplies","SUP0087",70.60,106.79,20
+396,"PRD00396","Wireless Spice Kit","Grocery","SUP0087",3.26,6.44,50
+397,"PRD00397","Compact Monitor","Electronics","SUP0100",708.77,1379.13,100
+398,"PRD00398","Classic Whiteboard","Office Supplies","SUP0005",89.55,123.62,75
+399,"PRD00399","Ultra Cookware Set","Home & Kitchen","SUP0048",103.89,188.94,50
+400,"PRD00400","Smart Bookshelf","Furniture","SUP0068",634.02,865.70,25
+401,"PRD00401","Essential Pen Set","Office Supplies","SUP0032",73.79,104.66,10
+402,"PRD00402","Wireless Power Bank","Electronics","SUP0067",190.70,315.18,50
+403,"PRD00403","Compact Snack Box","Grocery","SUP0100",24.12,40.64,25
+404,"PRD00404","Eco Phone Mount","Automotive","SUP0037",45.68,87.16,100
+405,"PRD00405","Ultra Pasta Pack","Grocery","SUP0016",11.36,15.30,20
+406,"PRD00406","Ultra Pasta Pack","Grocery","SUP0116",35.66,70.13,100
+407,"PRD00407","Compact Resistance Bands","Sports & Outdoors","SUP0109",259.47,481.87,25
+408,"PRD00408","Heavy-Duty Shampoo","Health & Beauty","SUP0071",66.56,110.70,75
+409,"PRD00409","Pro Scarf","Apparel","SUP0021",17.61,27.41,100
+410,"PRD00410","Heavy-Duty Dash Cam","Automotive","SUP0102",155.35,224.45,25
+411,"PRD00411","Compact Water Bottle","Sports & Outdoors","SUP0102",218.69,354.69,20
+412,"PRD00412","Ultra T-Shirt","Apparel","SUP0047",16.75,23.70,75
+413,"PRD00413","Ultra Card Game","Toys & Games","SUP0017",83.26,108.83,75
+414,"PRD00414","Compact Snack Box","Grocery","SUP0051",34.20,55.45,100
+415,"PRD00415","Portable Seat Cover","Automotive","SUP0099",197.43,334.51,50
+416,"PRD00416","Compact Bookshelf","Furniture","SUP0041",746.60,1128.01,100
+417,"PRD00417","Ultra Webcam","Electronics","SUP0017",547.24,916.24,75
+418,"PRD00418","Wireless Moisturizer","Health & Beauty","SUP0056",28.90,55.17,75
+419,"PRD00419","Premium Coffee Beans","Grocery","SUP0067",32.10,55.98,20
+420,"PRD00420","Wireless Trousers","Apparel","SUP0120",128.33,243.89,100
+421,"PRD00421","Portable Trousers","Apparel","SUP0109",107.71,202.25,10
+422,"PRD00422","Essential Socks Pack","Apparel","SUP0036",106.13,186.80,20
+423,"PRD00423","Smart Vitamin Pack","Health & Beauty","SUP0012",63.01,114.33,75
+424,"PRD00424","Smart Vitamin Pack","Health & Beauty","SUP0020",18.38,35.12,20
+425,"PRD00425","Heavy-Duty Vitamin Pack","Health & Beauty","SUP0044",87.57,111.38,75
+426,"PRD00426","Premium Charger","Electronics","SUP0006",663.27,893.19,100
+427,"PRD00427","Pro TV Stand","Furniture","SUP0027",318.23,575.24,75
+428,"PRD00428","Essential Notebook","Office Supplies","SUP0064",16.15,30.10,100
+429,"PRD00429","Essential Action Figure","Toys & Games","SUP0062",100.53,163.92,20
+430,"PRD00430","Essential Bed Frame","Furniture","SUP0039",30.59,44.82,50
+431,"PRD00431","Premium Speaker","Electronics","SUP0057",499.29,991.53,50
+432,"PRD00432","Eco Backpack","Sports & Outdoors","SUP0078",191.75,277.05,20
+433,"PRD00433","Heavy-Duty Trousers","Apparel","SUP0094",96.93,160.42,25
+434,"PRD00434","Wireless Snack Box","Grocery","SUP0066",31.41,41.78,75
+435,"PRD00435","Eco Power Bank","Electronics","SUP0016",612.41,1014.12,25
+436,"PRD00436","Wireless Yoga Mat","Sports & Outdoors","SUP0007",289.12,435.53,25
+437,"PRD00437","Smart Tea Set","Grocery","SUP0032",25.67,50.03,20
+438,"PRD00438","Smart TV Stand","Furniture","SUP0041",114.70,224.00,20
+439,"PRD00439","Ultra Sofa","Furniture","SUP0060",626.90,815.52,50
+440,"PRD00440","Ultra Coffee Beans","Grocery","SUP0012",12.74,22.69,50
+441,"PRD00441","Eco Water Bottle","Sports & Outdoors","SUP0075",25.80,43.51,25
+442,"PRD00442","Pro Power Bank","Electronics","SUP0077",286.52,491.58,100
+443,"PRD00443","Pro Vitamin Pack","Health & Beauty","SUP0002",7.44,14.16,10
+444,"PRD00444","Pro Resistance Bands","Sports & Outdoors","SUP0047",292.21,577.60,50
+445,"PRD00445","Classic Notebook","Office Supplies","SUP0073",67.97,91.59,75
+446,"PRD00446","Portable Cookware Set","Home & Kitchen","SUP0010",191.50,242.91,50
+447,"PRD00447","Portable Backpack","Sports & Outdoors","SUP0106",12.50,18.66,75
+448,"PRD00448","Compact Dash Cam","Automotive","SUP0013",200.57,366.60,50
+449,"PRD00449","Deluxe Whiteboard","Office Supplies","SUP0047",62.13,98.44,20
+450,"PRD00450","Portable Toaster","Home & Kitchen","SUP0065",74.22,148.28,10
+451,"PRD00451","Wireless Webcam","Electronics","SUP0103",349.55,555.27,50
+452,"PRD00452","Wireless Bike Light","Sports & Outdoors","SUP0115",54.11,99.89,75
+453,"PRD00453","Smart Cookware Set","Home & Kitchen","SUP0021",175.87,248.96,50
+454,"PRD00454","Heavy-Duty Snack Box","Grocery","SUP0076",4.21,7.41,25
+455,"PRD00455","Portable Bike Light","Sports & Outdoors","SUP0063",198.43,288.70,100
+456,"PRD00456","Ultra Puzzle","Toys & Games","SUP0048",114.30,155.82,25
+457,"PRD00457","Classic Vitamin Pack","Health & Beauty","SUP0040",44.94,87.98,100
+458,"PRD00458","Essential Coffee Beans","Grocery","SUP0077",17.37,30.03,50
+459,"PRD00459","Essential Scarf","Apparel","SUP0100",62.65,91.20,75
+460,"PRD00460","Heavy-Duty Puzzle","Toys & Games","SUP0075",118.14,183.94,50
+461,"PRD00461","Essential Cutting Board","Home & Kitchen","SUP0080",224.37,319.16,50
+462,"PRD00462","Essential Kettle","Home & Kitchen","SUP0005",59.57,75.85,75
+463,"PRD00463","Compact Pasta Pack","Grocery","SUP0003",26.42,40.33,50
+464,"PRD00464","Wireless Hoodie","Apparel","SUP0089",130.33,209.17,20
+465,"PRD00465","Smart Desk Organizer","Office Supplies","SUP0112",87.20,121.13,100
+466,"PRD00466","Heavy-Duty Dash Cam","Automotive","SUP0067",348.76,639.08,20
+467,"PRD00467","Essential Building Blocks","Toys & Games","SUP0068",93.43,175.98,50
+468,"PRD00468","Wireless Hoodie","Apparel","SUP0117",115.35,198.36,75
+469,"PRD00469","Deluxe Binder","Office Supplies","SUP0099",13.55,17.27,100
+470,"PRD00470","Heavy-Duty Tyre Inflator","Automotive","SUP0079",369.13,632.13,50
+471,"PRD00471","Eco Cookware Set","Home & Kitchen","SUP0072",200.76,323.45,25
+472,"PRD00472","Pro Scarf","Apparel","SUP0037",22.01,29.58,100
+473,"PRD00473","Heavy-Duty Toaster","Home & Kitchen","SUP0041",173.91,273.51,50
+474,"PRD00474","Heavy-Duty Pen Set","Office Supplies","SUP0037",19.65,31.81,10
+475,"PRD00475","Portable Building Blocks","Toys & Games","SUP0115",11.45,19.31,50
+476,"PRD00476","Wireless Desk","Furniture","SUP0006",260.37,481.21,25
+477,"PRD00477","Compact Snack Box","Grocery","SUP0119",13.10,20.85,50
+478,"PRD00478","Heavy-Duty Hair Dryer","Health & Beauty","SUP0028",4.13,5.39,20
+479,"PRD00479","Pro Sofa","Furniture","SUP0090",368.43,593.16,25
+480,"PRD00480","Smart Cutting Board","Home & Kitchen","SUP0076",153.20,225.01,20
+481,"PRD00481","Essential Socks Pack","Apparel","SUP0029",105.77,200.44,100
+482,"PRD00482","Compact Hoodie","Apparel","SUP0043",118.08,151.11,100
+483,"PRD00483","Essential Water Bottle","Sports & Outdoors","SUP0001",147.27,195.68,75
+484,"PRD00484","Wireless Tea Set","Grocery","SUP0084",10.44,20.78,50
+485,"PRD00485","Eco Backpack","Sports & Outdoors","SUP0042",47.89,77.78,25
+486,"PRD00486","Compact Vitamin Pack","Health & Beauty","SUP0030",62.96,111.87,75
+487,"PRD00487","Premium Dash Cam","Automotive","SUP0054",228.26,287.00,20
+488,"PRD00488","Premium Tea Set","Grocery","SUP0101",13.73,22.49,50
+489,"PRD00489","Heavy-Duty Air Fryer","Home & Kitchen","SUP0119",29.26,44.27,25
+490,"PRD00490","Premium Snack Box","Grocery","SUP0073",2.29,3.00,75
+491,"PRD00491","Deluxe Router","Electronics","SUP0059",326.58,440.73,100
+492,"PRD00492","Ultra Board Game","Toys & Games","SUP0109",69.83,123.40,75
+493,"PRD00493","Eco Yoga Mat","Sports & Outdoors","SUP0043",241.37,337.95,20
+494,"PRD00494","Essential Tyre Inflator","Automotive","SUP0092",75.32,100.06,20
+495,"PRD00495","Deluxe Router","Electronics","SUP0073",514.60,915.91,100
+496,"PRD00496","Wireless Sofa","Furniture","SUP0110",52.64,102.76,100
+497,"PRD00497","Classic Spice Kit","Grocery","SUP0042",3.03,5.02,10
+498,"PRD00498","Compact Stapler","Office Supplies","SUP0018",64.40,122.57,50
+499,"PRD00499","Eco T-Shirt","Apparel","SUP0034",108.54,200.94,50
+500,"PRD00500","Pro Trousers","Apparel","SUP0039",54.22,100.91,75
+501,"PRD00501","Premium Tyre Inflator","Automotive","SUP0084",41.24,79.23,25
+502,"PRD00502","Premium Car Vacuum","Automotive","SUP0060",223.56,416.49,25
+503,"PRD00503","Essential Storage Box","Home & Kitchen","SUP0119",117.46,203.52,100
+504,"PRD00504","Heavy-Duty Office Chair","Furniture","SUP0082",485.60,873.44,25
+505,"PRD00505","Eco Stapler","Office Supplies","SUP0018",9.18,11.89,50
+506,"PRD00506","Heavy-Duty Storage Box","Home & Kitchen","SUP0048",67.80,92.86,50
+507,"PRD00507","Ultra Phone Mount","Automotive","SUP0103",350.00,495.04,100
+508,"PRD00508","Eco TV Stand","Furniture","SUP0097",878.88,1320.67,75
+509,"PRD00509","Compact Spice Kit","Grocery","SUP0058",8.10,14.92,75
+510,"PRD00510","Compact Phone Mount","Automotive","SUP0015",266.90,433.35,10
+511,"PRD00511","Portable Bookshelf","Furniture","SUP0074",510.94,914.28,75
+512,"PRD00512","Deluxe Air Fryer","Home & Kitchen","SUP0067",63.29,126.41,50
+513,"PRD00513","Eco Power Bank","Electronics","SUP0012",780.21,1355.81,75
+514,"PRD00514","Premium Tent","Sports & Outdoors","SUP0017",64.67,113.83,75
+515,"PRD00515","Smart Notebook","Office Supplies","SUP0072",8.35,10.63,50
+516,"PRD00516","Pro Shampoo","Health & Beauty","SUP0051",28.00,44.72,25
+517,"PRD00517","Heavy-Duty Bookshelf","Furniture","SUP0075",784.74,1408.90,10
+518,"PRD00518","Deluxe Charger","Electronics","SUP0070",598.02,938.37,10
+519,"PRD00519","Compact Tea Set","Grocery","SUP0005",14.49,22.14,25
+520,"PRD00520","Wireless Binder","Office Supplies","SUP0094",88.91,113.81,100
+521,"PRD00521","Deluxe Tea Set","Grocery","SUP0058",34.81,58.62,50
+522,"PRD00522","Essential Binder","Office Supplies","SUP0112",40.60,72.83,75
+523,"PRD00523","Deluxe Blender","Home & Kitchen","SUP0023",125.77,239.60,75
+524,"PRD00524","Wireless Binder","Office Supplies","SUP0029",81.26,127.28,10
+525,"PRD00525","Pro Bed Frame","Furniture","SUP0087",267.22,452.74,100
+526,"PRD00526","Portable Building Blocks","Toys & Games","SUP0106",109.83,154.64,20
+527,"PRD00527","Deluxe Jacket","Apparel","SUP0036",95.33,164.32,20
+528,"PRD00528","Heavy-Duty Coffee Beans","Grocery","SUP0005",29.59,39.91,100
+529,"PRD00529","Premium Stapler","Office Supplies","SUP0027",64.99,125.55,10
+530,"PRD00530","Premium Power Bank","Electronics","SUP0077",156.05,222.86,100
+531,"PRD00531","Premium Dash Cam","Automotive","SUP0095",388.84,538.83,10
+532,"PRD00532","Eco Whiteboard","Office Supplies","SUP0028",77.19,124.99,10
+533,"PRD00533","Pro Kettle","Home & Kitchen","SUP0105",67.83,129.08,100
+534,"PRD00534","Smart Card Game","Toys & Games","SUP0099",55.66,91.07,100
+535,"PRD00535","Eco Desk","Furniture","SUP0113",339.33,575.07,20
+536,"PRD00536","Portable Pasta Pack","Grocery","SUP0053",7.38,11.39,25
+537,"PRD00537","Portable Socks Pack","Apparel","SUP0113",145.56,210.13,100
+538,"PRD00538","Essential Tea Set","Grocery","SUP0072",26.61,39.75,50
+539,"PRD00539","Deluxe Tablet Stand","Electronics","SUP0101",622.18,838.80,75
+540,"PRD00540","Classic Hoodie","Apparel","SUP0020",145.62,231.59,25
+541,"PRD00541","Portable Desk Organizer","Office Supplies","SUP0031",22.77,29.72,20
+542,"PRD00542","Heavy-Duty Jacket","Apparel","SUP0104",29.61,48.56,50
+543,"PRD00543","Portable Tea Set","Grocery","SUP0054",14.14,26.47,75
+544,"PRD00544","Classic Board Game","Toys & Games","SUP0033",53.98,77.54,20
+545,"PRD00545","Compact Hoodie","Apparel","SUP0109",94.49,168.20,25
+546,"PRD00546","Heavy-Duty Monitor","Electronics","SUP0007",146.13,201.03,25
+547,"PRD00547","Smart Whiteboard","Office Supplies","SUP0006",5.23,9.43,10
+548,"PRD00548","Smart Cutting Board","Home & Kitchen","SUP0086",168.64,270.83,75
+549,"PRD00549","Eco Air Fryer","Home & Kitchen","SUP0117",212.29,393.64,25
+550,"PRD00550","Premium Jacket","Apparel","SUP0120",89.88,170.88,20
+551,"PRD00551","Compact Tea Set","Grocery","SUP0118",9.03,12.05,20
+552,"PRD00552","Heavy-Duty Dash Cam","Automotive","SUP0051",115.20,148.93,20
+553,"PRD00553","Pro Building Blocks","Toys & Games","SUP0060",65.62,128.12,75
+554,"PRD00554","Pro Electric Toothbrush","Health & Beauty","SUP0047",6.82,9.15,75
+555,"PRD00555","Ultra Coffee Beans","Grocery","SUP0103",18.64,36.36,100
+556,"PRD00556","Deluxe Water Bottle","Sports & Outdoors","SUP0048",98.95,161.33,25
+557,"PRD00557","Smart Stapler","Office Supplies","SUP0095",5.66,7.70,20
+558,"PRD00558","Portable Tablet Stand","Electronics","SUP0038",789.50,1558.35,20
+559,"PRD00559","Eco Toaster","Home & Kitchen","SUP0073",9.20,18.07,20
+560,"PRD00560","Essential Resistance Bands","Sports & Outdoors","SUP0044",193.90,368.59,25
+561,"PRD00561","Ultra TV Stand","Furniture","SUP0083",422.90,692.16,100
+562,"PRD00562","Wireless Resistance Bands","Sports & Outdoors","SUP0102",149.72,262.03,25
+563,"PRD00563","Heavy-Duty Storage Box","Home & Kitchen","SUP0063",41.80,53.19,20
+564,"PRD00564","Portable Coffee Beans","Grocery","SUP0068",13.01,23.14,10
+565,"PRD00565","Compact TV Stand","Furniture","SUP0007",201.62,353.86,10
+566,"PRD00566","Essential Stapler","Office Supplies","SUP0009",87.35,115.34,100
+567,"PRD00567","Eco Storage Box","Home & Kitchen","SUP0059",170.77,270.30,25
+568,"PRD00568","Essential Power Bank","Electronics","SUP0085",696.49,963.15,50
+569,"PRD00569","Portable Tablet Stand","Electronics","SUP0002",558.71,1049.59,10
+570,"PRD00570","Pro Card Game","Toys & Games","SUP0037",113.58,200.18,10
+571,"PRD00571","Heavy-Duty Resistance Bands","Sports & Outdoors","SUP0056",152.17,260.73,20
+572,"PRD00572","Compact Speaker","Electronics","SUP0031",697.09,1169.69,20
+573,"PRD00573","Pro Electric Toothbrush","Health & Beauty","SUP0035",5.95,11.59,50
+574,"PRD00574","Classic Power Bank","Electronics","SUP0073",556.28,977.60,20
+575,"PRD00575","Eco Snack Box","Grocery","SUP0088",9.41,16.41,10
+576,"PRD00576","Essential Shampoo","Health & Beauty","SUP0012",41.20,71.62,50
+577,"PRD00577","Portable Desk Organizer","Office Supplies","SUP0008",11.38,19.84,100
+578,"PRD00578","Wireless Charger","Electronics","SUP0064",799.54,1028.34,50
+579,"PRD00579","Deluxe Vitamin Pack","Health & Beauty","SUP0110",97.79,152.08,10
+580,"PRD00580","Premium Pasta Pack","Grocery","SUP0028",34.96,64.21,100
+581,"PRD00581","Ultra Snack Box","Grocery","SUP0006",23.11,41.69,10
+582,"PRD00582","Pro Phone Mount","Automotive","SUP0073",352.62,547.66,100
+583,"PRD00583","Deluxe Headphones","Electronics","SUP0027",271.72,475.70,75
+584,"PRD00584","Heavy-Duty Air Fryer","Home & Kitchen","SUP0051",203.50,370.72,10
+585,"PRD00585","Smart Jacket","Apparel","SUP0073",120.68,190.27,50
+586,"PRD00586","Portable Electric Toothbrush","Health & Beauty","SUP0050",82.33,110.34,100
+587,"PRD00587","Heavy-Duty Cutting Board","Home & Kitchen","SUP0011",139.77,175.32,75
+588,"PRD00588","Deluxe Car Vacuum","Automotive","SUP0013",136.59,208.28,50
+589,"PRD00589","Compact Trousers","Apparel","SUP0078",62.45,110.64,75
+590,"PRD00590","Classic Snack Box","Grocery","SUP0004",16.15,25.62,100
+591,"PRD00591","Ultra Hoodie","Apparel","SUP0030",39.44,60.34,25
+592,"PRD00592","Classic Building Blocks","Toys & Games","SUP0024",30.36,39.62,100
+593,"PRD00593","Classic Puzzle","Toys & Games","SUP0099",74.00,129.59,75
+594,"PRD00594","Eco Cap","Apparel","SUP0010",94.83,151.50,10
+595,"PRD00595","Classic Cap","Apparel","SUP0101",60.07,113.98,100
+596,"PRD00596","Classic Cookware Set","Home & Kitchen","SUP0047",133.62,215.05,10
+597,"PRD00597","Pro Power Bank","Electronics","SUP0047",35.13,52.90,25
+598,"PRD00598","Compact Speaker","Electronics","SUP0056",313.45,485.57,50
+599,"PRD00599","Portable Building Blocks","Toys & Games","SUP0014",71.30,117.66,10
+600,"PRD00600","Portable Charger","Electronics","SUP0077",492.21,897.62,75
+601,"PRD00601","Classic Office Chair","Furniture","SUP0038",736.36,1317.05,50
+602,"PRD00602","Compact Binder","Office Supplies","SUP0116",86.09,108.79,75
+603,"PRD00603","Eco Spice Kit","Grocery","SUP0067",8.64,10.85,20
+604,"PRD00604","Wireless Dash Cam","Automotive","SUP0035",262.52,504.96,25
+605,"PRD00605","Wireless T-Shirt","Apparel","SUP0022",40.30,78.39,50
+606,"PRD00606","Pro Hoodie","Apparel","SUP0101",13.74,26.80,10
+607,"PRD00607","Eco Binder","Office Supplies","SUP0081",32.94,43.68,50
+608,"PRD00608","Eco Building Blocks","Toys & Games","SUP0014",60.36,87.07,20
+609,"PRD00609","Classic Trousers","Apparel","SUP0108",46.31,68.56,75
+610,"PRD00610","Deluxe Desk Organizer","Office Supplies","SUP0043",72.67,120.22,50
+611,"PRD00611","Essential Sofa","Furniture","SUP0018",297.39,507.87,25
+612,"PRD00612","Heavy-Duty Jacket","Apparel","SUP0062",108.84,158.30,25
+613,"PRD00613","Classic Cookware Set","Home & Kitchen","SUP0038",108.08,144.98,100
+614,"PRD00614","Ultra Phone Mount","Automotive","SUP0101",80.65,142.01,20
+615,"PRD00615","Pro Scarf","Apparel","SUP0101",31.31,51.47,50
+616,"PRD00616","Smart Stapler","Office Supplies","SUP0076",64.40,85.66,75
+617,"PRD00617","Portable Blender","Home & Kitchen","SUP0094",145.29,209.57,50
+618,"PRD00618","Eco Tea Set","Grocery","SUP0103",38.55,62.17,25
+619,"PRD00619","Compact Bed Frame","Furniture","SUP0087",730.24,1214.15,50
+620,"PRD00620","Pro Kettle","Home & Kitchen","SUP0033",18.51,31.93,100
+621,"PRD00621","Classic Air Fryer","Home & Kitchen","SUP0049",238.24,405.30,10
+622,"PRD00622","Smart Tent","Sports & Outdoors","SUP0075",246.84,472.24,50
+623,"PRD00623","Heavy-Duty Building Blocks","Toys & Games","SUP0070",30.46,42.92,10
+624,"PRD00624","Deluxe TV Stand","Furniture","SUP0115",559.61,872.02,75
+625,"PRD00625","Compact Puzzle","Toys & Games","SUP0099",101.42,195.24,20
+626,"PRD00626","Deluxe Moisturizer","Health & Beauty","SUP0083",37.28,53.22,75
+627,"PRD00627","Essential Tablet Stand","Electronics","SUP0097",627.71,914.01,25
+628,"PRD00628","Classic Coffee Beans","Grocery","SUP0002",33.08,51.86,10
+629,"PRD00629","Portable Cap","Apparel","SUP0067",101.79,134.53,75
+630,"PRD00630","Smart Board Game","Toys & Games","SUP0058",76.37,121.34,25
+631,"PRD00631","Essential Whiteboard","Office Supplies","SUP0089",53.62,73.78,75
+632,"PRD00632","Premium Toaster","Home & Kitchen","SUP0014",186.32,353.47,25
+633,"PRD00633","Compact Notebook","Office Supplies","SUP0107",21.07,27.85,100
+634,"PRD00634","Pro Cookware Set","Home & Kitchen","SUP0059",13.72,23.76,20
+635,"PRD00635","Deluxe Building Blocks","Toys & Games","SUP0013",74.42,123.54,50
+636,"PRD00636","Ultra Tyre Inflator","Automotive","SUP0009",100.46,155.03,25
+637,"PRD00637","Heavy-Duty Charger","Electronics","SUP0003",481.66,781.53,25
+638,"PRD00638","Essential Moisturizer","Health & Beauty","SUP0120",98.82,133.64,100
+639,"PRD00639","Wireless Socks Pack","Apparel","SUP0021",105.80,164.33,25
+640,"PRD00640","Ultra Board Game","Toys & Games","SUP0103",53.67,95.97,50
+641,"PRD00641","Wireless Hair Dryer","Health & Beauty","SUP0051",70.17,139.88,10
+642,"PRD00642","Eco Seat Cover","Automotive","SUP0076",60.07,79.78,50
+643,"PRD00643","Heavy-Duty Stapler","Office Supplies","SUP0027",65.74,110.69,25
+644,"PRD00644","Compact Sofa","Furniture","SUP0014",264.89,346.89,75
+645,"PRD00645","Deluxe Kettle","Home & Kitchen","SUP0059",28.73,55.18,10
+646,"PRD00646","Ultra Socks Pack","Apparel","SUP0082",32.82,48.98,25
+647,"PRD00647","Smart Building Blocks","Toys & Games","SUP0076",30.29,45.93,10
+648,"PRD00648","Ultra Whiteboard","Office Supplies","SUP0023",8.11,13.29,100
+649,"PRD00649","Pro Phone Mount","Automotive","SUP0076",36.37,67.29,10
+650,"PRD00650","Deluxe Shampoo","Health & Beauty","SUP0031",25.67,42.48,25
+651,"PRD00651","Deluxe Speaker","Electronics","SUP0066",705.86,1226.90,50
+652,"PRD00652","Wireless Whiteboard","Office Supplies","SUP0050",48.90,73.02,50
+653,"PRD00653","Essential Storage Box","Home & Kitchen","SUP0089",88.59,155.22,100
+654,"PRD00654","Wireless Spice Kit","Grocery","SUP0022",39.77,69.45,50
+655,"PRD00655","Wireless Trousers","Apparel","SUP0108",85.88,154.41,50
+656,"PRD00656","Deluxe Shampoo","Health & Beauty","SUP0063",48.12,62.32,20
+657,"PRD00657","Classic Storage Box","Home & Kitchen","SUP0065",144.08,283.58,100
+658,"PRD00658","Essential Tent","Sports & Outdoors","SUP0054",57.54,101.70,100
+659,"PRD00659","Ultra Bookshelf","Furniture","SUP0011",200.82,331.73,75
+660,"PRD00660","Eco Router","Electronics","SUP0005",90.89,144.31,25
+661,"PRD00661","Pro Jacket","Apparel","SUP0100",114.64,173.18,50
+662,"PRD00662","Ultra Card Game","Toys & Games","SUP0066",81.13,149.81,10
+663,"PRD00663","Pro Card Game","Toys & Games","SUP0106",111.55,159.07,25
+664,"PRD00664","Premium Building Blocks","Toys & Games","SUP0070",50.32,68.65,20
+665,"PRD00665","Compact Pasta Pack","Grocery","SUP0039",39.71,77.25,10
+666,"PRD00666","Deluxe Yoga Mat","Sports & Outdoors","SUP0057",164.75,309.98,10
+667,"PRD00667","Eco Bookshelf","Furniture","SUP0104",480.84,825.93,100
+668,"PRD00668","Deluxe Card Game","Toys & Games","SUP0081",14.34,26.05,50
+669,"PRD00669","Wireless Air Fryer","Home & Kitchen","SUP0027",38.91,72.74,20
+670,"PRD00670","Smart Desk","Furniture","SUP0069",709.27,1263.61,25
+671,"PRD00671","Wireless Action Figure","Toys & Games","SUP0091",8.19,12.10,25
+672,"PRD00672","Pro Scarf","Apparel","SUP0066",43.15,65.59,100
+673,"PRD00673","Wireless Bed Frame","Furniture","SUP0118",101.69,198.57,10
+674,"PRD00674","Essential Pasta Pack","Grocery","SUP0090",22.60,33.43,20
+675,"PRD00675","Heavy-Duty Trousers","Apparel","SUP0107",62.56,99.18,20
+676,"PRD00676","Essential Bed Frame","Furniture","SUP0063",550.52,901.07,20
+677,"PRD00677","Pro Building Blocks","Toys & Games","SUP0049",110.65,179.55,50
+678,"PRD00678","Compact Tablet Stand","Electronics","SUP0066",793.84,1499.22,100
+679,"PRD00679","Deluxe Hoodie","Apparel","SUP0063",35.23,68.63,25
+680,"PRD00680","Heavy-Duty Puzzle","Toys & Games","SUP0094",17.50,32.60,50
+681,"PRD00681","Heavy-Duty Electric Toothbrush","Health & Beauty","SUP0109",39.92,76.19,10
+682,"PRD00682","Classic Bookshelf","Furniture","SUP0055",784.55,1454.90,20
+683,"PRD00683","Deluxe Backpack","Sports & Outdoors","SUP0044",238.27,352.28,75
+684,"PRD00684","Smart Building Blocks","Toys & Games","SUP0101",13.39,20.78,25
+685,"PRD00685","Premium Coffee Beans","Grocery","SUP0013",7.77,13.76,100
+686,"PRD00686","Ultra Office Chair","Furniture","SUP0016",327.84,649.68,20
+687,"PRD00687","Premium Tent","Sports & Outdoors","SUP0026",194.45,363.01,100
+688,"PRD00688","Essential Snack Box","Grocery","SUP0021",6.17,11.70,25
+689,"PRD00689","Deluxe Router","Electronics","SUP0011",739.36,1194.29,25
+690,"PRD00690","Essential Moisturizer","Health & Beauty","SUP0007",61.81,112.72,50
+691,"PRD00691","Heavy-Duty Moisturizer","Health & Beauty","SUP0055",19.96,32.47,100
+692,"PRD00692","Compact Headphones","Electronics","SUP0028",327.95,445.94,50
+693,"PRD00693","Smart Monitor","Electronics","SUP0067",303.51,394.91,100
+694,"PRD00694","Premium Resistance Bands","Sports & Outdoors","SUP0044",13.59,18.37,10
+695,"PRD00695","Classic Pasta Pack","Grocery","SUP0062",38.56,64.09,10
+696,"PRD00696","Compact Cap","Apparel","SUP0104",145.04,228.35,10
+697,"PRD00697","Deluxe Router","Electronics","SUP0018",259.78,423.34,50
+698,"PRD00698","Wireless TV Stand","Furniture","SUP0087",409.57,544.42,20
+699,"PRD00699","Smart Headphones","Electronics","SUP0079",518.05,731.50,100
+700,"PRD00700","Deluxe Cutting Board","Home & Kitchen","SUP0028",157.94,274.44,100
+701,"PRD00701","Classic Phone Mount","Automotive","SUP0088",69.29,89.80,50
+702,"PRD00702","Compact Coffee Beans","Grocery","SUP0018",31.45,50.16,10
+703,"PRD00703","Classic Action Figure","Toys & Games","SUP0055",10.75,21.46,25
+704,"PRD00704","Eco Desk","Furniture","SUP0083",75.56,133.84,10
+705,"PRD00705","Smart Socks Pack","Apparel","SUP0093",147.63,211.02,75
+706,"PRD00706","Heavy-Duty T-Shirt","Apparel","SUP0109",25.63,34.37,100
+707,"PRD00707","Eco Spice Kit","Grocery","SUP0078",12.83,17.01,75
+708,"PRD00708","Classic Cookware Set","Home & Kitchen","SUP0083",175.50,227.57,10
+709,"PRD00709","Eco Bed Frame","Furniture","SUP0050",470.74,940.31,10
+710,"PRD00710","Essential Socks Pack","Apparel","SUP0010",123.03,210.56,75
+711,"PRD00711","Premium Snack Box","Grocery","SUP0120",12.94,22.23,25
+712,"PRD00712","Smart Toaster","Home & Kitchen","SUP0047",135.54,212.74,75
+713,"PRD00713","Ultra Car Vacuum","Automotive","SUP0003",60.98,116.77,75
+714,"PRD00714","Pro Monitor","Electronics","SUP0006",368.08,513.83,10
+715,"PRD00715","Classic Spice Kit","Grocery","SUP0037",15.34,23.94,100
+716,"PRD00716","Classic Seat Cover","Automotive","SUP0090",332.74,599.00,50
+717,"PRD00717","Portable Speaker","Electronics","SUP0036",618.90,778.75,10
+718,"PRD00718","Portable Jacket","Apparel","SUP0104",65.34,105.26,20
+719,"PRD00719","Classic Card Game","Toys & Games","SUP0082",6.23,9.00,100
+720,"PRD00720","Compact Tyre Inflator","Automotive","SUP0090",306.51,414.66,50
+721,"PRD00721","Eco Car Vacuum","Automotive","SUP0032",218.77,308.77,10
+722,"PRD00722","Compact Tea Set","Grocery","SUP0079",1.47,2.10,75
+723,"PRD00723","Essential Speaker","Electronics","SUP0016",781.06,1445.86,10
+724,"PRD00724","Heavy-Duty Car Vacuum","Automotive","SUP0021",384.23,620.87,50
+725,"PRD00725","Portable Spice Kit","Grocery","SUP0101",5.28,8.77,100
+726,"PRD00726","Deluxe Jacket","Apparel","SUP0096",70.88,133.49,25
+727,"PRD00727","Compact Car Vacuum","Automotive","SUP0043",48.25,77.98,50
+728,"PRD00728","Compact Trousers","Apparel","SUP0092",26.76,39.97,75
+729,"PRD00729","Ultra Hair Dryer","Health & Beauty","SUP0066",74.52,119.75,25
+730,"PRD00730","Smart Speaker","Electronics","SUP0048",310.07,479.32,20
+731,"PRD00731","Compact Socks Pack","Apparel","SUP0087",71.62,131.69,100
+732,"PRD00732","Heavy-Duty Headphones","Electronics","SUP0006",715.29,1406.62,10
+733,"PRD00733","Ultra Trousers","Apparel","SUP0050",119.10,177.05,20
+734,"PRD00734","Premium Storage Box","Home & Kitchen","SUP0103",174.53,275.44,100
+735,"PRD00735","Classic Dash Cam","Automotive","SUP0042",109.32,205.59,20
+736,"PRD00736","Heavy-Duty Pen Set","Office Supplies","SUP0035",5.38,10.36,10
+737,"PRD00737","Compact Card Game","Toys & Games","SUP0087",57.53,99.41,10
+738,"PRD00738","Portable Blender","Home & Kitchen","SUP0052",167.56,321.94,10
+739,"PRD00739","Pro Snack Box","Grocery","SUP0042",25.83,44.18,10
+740,"PRD00740","Premium Action Figure","Toys & Games","SUP0026",11.73,19.22,25
+741,"PRD00741","Pro Card Game","Toys & Games","SUP0032",21.42,38.62,50
+742,"PRD00742","Ultra Stapler","Office Supplies","SUP0094",47.08,82.87,75
+743,"PRD00743","Eco Bookshelf","Furniture","SUP0001",61.46,80.73,50
+744,"PRD00744","Portable Webcam","Electronics","SUP0082",577.31,752.85,100
+745,"PRD00745","Deluxe Coffee Beans","Grocery","SUP0098",3.78,4.76,100
+746,"PRD00746","Heavy-Duty Binder","Office Supplies","SUP0040",86.17,155.38,10
+747,"PRD00747","Eco Toaster","Home & Kitchen","SUP0063",93.49,137.65,10
+748,"PRD00748","Wireless Snack Box","Grocery","SUP0012",14.64,26.81,10
+749,"PRD00749","Portable Tea Set","Grocery","SUP0090",26.79,37.21,25
+750,"PRD00750","Heavy-Duty Yoga Mat","Sports & Outdoors","SUP0075",57.19,75.71,10
+751,"PRD00751","Essential Tent","Sports & Outdoors","SUP0010",200.13,364.89,75
+752,"PRD00752","Classic Board Game","Toys & Games","SUP0031",34.75,43.98,25
+753,"PRD00753","Deluxe Scarf","Apparel","SUP0051",16.91,33.41,100
+754,"PRD00754","Deluxe Desk","Furniture","SUP0058",283.51,517.95,25
+755,"PRD00755","Eco Jacket","Apparel","SUP0100",95.58,146.85,75
+756,"PRD00756","Compact Speaker","Electronics","SUP0058",176.46,236.64,50
+757,"PRD00757","Compact Socks Pack","Apparel","SUP0046",94.18,172.44,20
+758,"PRD00758","Ultra Backpack","Sports & Outdoors","SUP0110",195.31,321.82,10
+759,"PRD00759","Essential Router","Electronics","SUP0106",47.93,94.73,100
+760,"PRD00760","Premium Dash Cam","Automotive","SUP0107",321.50,472.48,25
+761,"PRD00761","Heavy-Duty Kettle","Home & Kitchen","SUP0046",245.15,417.10,50
+762,"PRD00762","Essential Backpack","Sports & Outdoors","SUP0034",177.23,320.97,20
+763,"PRD00763","Classic Power Bank","Electronics","SUP0072",652.24,1136.44,100
+764,"PRD00764","Compact Building Blocks","Toys & Games","SUP0014",18.86,28.36,20
+765,"PRD00765","Premium Air Fryer","Home & Kitchen","SUP0100",232.60,329.93,20
+766,"PRD00766","Classic Cookware Set","Home & Kitchen","SUP0088",98.06,154.35,100
+767,"PRD00767","Compact Spice Kit","Grocery","SUP0076",18.14,31.01,25
+768,"PRD00768","Compact Coffee Beans","Grocery","SUP0009",37.78,54.05,20
+769,"PRD00769","Ultra Pasta Pack","Grocery","SUP0012",5.74,8.03,25
+770,"PRD00770","Ultra Blender","Home & Kitchen","SUP0022",222.64,386.14,75
+771,"PRD00771","Heavy-Duty Tent","Sports & Outdoors","SUP0064",90.06,167.69,10
+772,"PRD00772","Classic Stapler","Office Supplies","SUP0046",77.80,146.64,20
+773,"PRD00773","Pro Snack Box","Grocery","SUP0058",36.84,53.02,20
+774,"PRD00774","Smart Monitor","Electronics","SUP0083",607.71,969.54,25
+775,"PRD00775","Portable Tent","Sports & Outdoors","SUP0008",253.55,455.47,10
+776,"PRD00776","Wireless Hoodie","Apparel","SUP0026",117.58,204.84,100
+777,"PRD00777","Portable Pasta Pack","Grocery","SUP0081",7.92,13.14,75
+778,"PRD00778","Classic TV Stand","Furniture","SUP0046",886.59,1731.55,50
+779,"PRD00779","Ultra Action Figure","Toys & Games","SUP0117",9.01,12.38,75
+780,"PRD00780","Classic Backpack","Sports & Outdoors","SUP0024",44.73,80.27,10
+781,"PRD00781","Eco T-Shirt","Apparel","SUP0115",123.58,174.26,25
+782,"PRD00782","Ultra Webcam","Electronics","SUP0099",412.09,774.95,75
+783,"PRD00783","Wireless Coffee Beans","Grocery","SUP0032",29.58,49.00,100
+784,"PRD00784","Portable Scarf","Apparel","SUP0102",90.60,147.79,100
+785,"PRD00785","Eco Tablet Stand","Electronics","SUP0046",248.58,416.06,20
+786,"PRD00786","Smart Cookware Set","Home & Kitchen","SUP0104",174.71,332.82,100
+787,"PRD00787","Smart Car Vacuum","Automotive","SUP0091",258.15,470.05,100
+788,"PRD00788","Smart Whiteboard","Office Supplies","SUP0019",16.09,25.68,75
+789,"PRD00789","Ultra Spice Kit","Grocery","SUP0040",1.36,1.95,20
+790,"PRD00790","Compact Yoga Mat","Sports & Outdoors","SUP0030",219.58,437.81,75
+791,"PRD00791","Portable Toaster","Home & Kitchen","SUP0001",32.00,49.64,25
+792,"PRD00792","Eco Pasta Pack","Grocery","SUP0044",32.20,45.18,100
+793,"PRD00793","Deluxe Blender","Home & Kitchen","SUP0003",142.33,256.17,20
+794,"PRD00794","Wireless Puzzle","Toys & Games","SUP0109",75.45,104.95,75
+795,"PRD00795","Compact Snack Box","Grocery","SUP0091",14.86,27.31,100
+796,"PRD00796","Compact Pen Set","Office Supplies","SUP0039",50.77,63.66,25
+797,"PRD00797","Wireless Cutting Board","Home & Kitchen","SUP0056",192.16,245.29,100
+798,"PRD00798","Essential Snack Box","Grocery","SUP0023",30.08,42.17,100
+799,"PRD00799","Heavy-Duty Spice Kit","Grocery","SUP0101",38.36,58.54,25
+800,"PRD00800","Smart Scarf","Apparel","SUP0023",52.41,71.36,50
+801,"PRD00801","Heavy-Duty Trousers","Apparel","SUP0017",49.31,94.06,20
+802,"PRD00802","Heavy-Duty Phone Mount","Automotive","SUP0051",398.57,608.31,75
+803,"PRD00803","Smart Webcam","Electronics","SUP0118",367.16,657.79,75
+804,"PRD00804","Smart T-Shirt","Apparel","SUP0120",133.50,226.25,50
+805,"PRD00805","Heavy-Duty Blender","Home & Kitchen","SUP0031",102.75,160.24,25
+806,"PRD00806","Wireless Coffee Beans","Grocery","SUP0106",28.13,35.23,100
+807,"PRD00807","Heavy-Duty Electric Toothbrush","Health & Beauty","SUP0058",63.10,95.70,10
+808,"PRD00808","Eco Cap","Apparel","SUP0009",120.16,158.58,25
+809,"PRD00809","Compact Cap","Apparel","SUP0001",90.29,145.43,10
+810,"PRD00810","Heavy-Duty Desk Organizer","Office Supplies","SUP0022",58.52,76.00,50
+811,"PRD00811","Classic Backpack","Sports & Outdoors","SUP0070",176.52,294.98,50
+812,"PRD00812","Ultra Monitor","Electronics","SUP0021",455.12,774.89,50
+813,"PRD00813","Premium Router","Electronics","SUP0003",546.03,1012.20,25
+814,"PRD00814","Compact T-Shirt","Apparel","SUP0044",44.12,82.45,20
+815,"PRD00815","Wireless Coffee Beans","Grocery","SUP0071",20.43,26.72,10
+816,"PRD00816","Smart Hoodie","Apparel","SUP0091",13.49,20.24,10
+817,"PRD00817","Essential Water Bottle","Sports & Outdoors","SUP0078",236.76,421.61,50
+818,"PRD00818","Compact Cookware Set","Home & Kitchen","SUP0027",198.84,325.69,20
+819,"PRD00819","Portable Binder","Office Supplies","SUP0119",40.74,55.43,100
+820,"PRD00820","Essential Action Figure","Toys & Games","SUP0039",42.07,66.28,20
+821,"PRD00821","Classic Power Bank","Electronics","SUP0020",84.55,119.68,10
+822,"PRD00822","Classic Notebook","Office Supplies","SUP0038",54.64,98.45,100
+823,"PRD00823","Ultra Moisturizer","Health & Beauty","SUP0013",99.84,194.67,10
+824,"PRD00824","Essential Cookware Set","Home & Kitchen","SUP0011",163.50,256.03,50
+825,"PRD00825","Pro Bed Frame","Furniture","SUP0061",581.66,1069.81,50
+826,"PRD00826","Pro Coffee Beans","Grocery","SUP0083",5.62,8.75,75
+827,"PRD00827","Deluxe Desk Organizer","Office Supplies","SUP0048",75.90,116.72,20
+828,"PRD00828","Pro Tent","Sports & Outdoors","SUP0060",174.13,294.42,25
+829,"PRD00829","Pro Socks Pack","Apparel","SUP0008",31.75,48.31,20
+830,"PRD00830","Essential Office Chair","Furniture","SUP0011",317.70,403.37,100
+831,"PRD00831","Portable Desk Organizer","Office Supplies","SUP0097",4.13,7.74,75
+832,"PRD00832","Premium Scarf","Apparel","SUP0050",44.60,73.08,75
+833,"PRD00833","Portable Binder","Office Supplies","SUP0111",28.29,55.32,50
+834,"PRD00834","Eco Building Blocks","Toys & Games","SUP0039",34.08,53.58,10
+835,"PRD00835","Heavy-Duty Notebook","Office Supplies","SUP0065",78.80,148.26,75
+836,"PRD00836","Smart Spice Kit","Grocery","SUP0019",8.26,15.30,10
+837,"PRD00837","Ultra Pasta Pack","Grocery","SUP0022",18.87,30.42,20
+838,"PRD00838","Wireless Office Chair","Furniture","SUP0055",141.79,185.81,10
+839,"PRD00839","Classic Pasta Pack","Grocery","SUP0106",29.39,47.68,100
+840,"PRD00840","Smart Cookware Set","Home & Kitchen","SUP0041",113.72,204.37,100
+841,"PRD00841","Compact Coffee Beans","Grocery","SUP0050",30.86,42.25,75
+842,"PRD00842","Deluxe Pen Set","Office Supplies","SUP0067",55.70,75.28,50
+843,"PRD00843","Premium Spice Kit","Grocery","SUP0076",30.30,52.80,75
+844,"PRD00844","Compact Bed Frame","Furniture","SUP0020",862.04,1122.13,20
+845,"PRD00845","Smart Puzzle","Toys & Games","SUP0119",10.62,15.52,10
+846,"PRD00846","Compact Action Figure","Toys & Games","SUP0112",34.36,49.31,75
+847,"PRD00847","Classic Snack Box","Grocery","SUP0050",36.34,52.23,100
+848,"PRD00848","Smart Tent","Sports & Outdoors","SUP0005",85.95,156.39,20
+849,"PRD00849","Wireless Socks Pack","Apparel","SUP0078",70.21,128.66,100
+850,"PRD00850","Premium Seat Cover","Automotive","SUP0114",35.49,57.34,25
+851,"PRD00851","Premium Seat Cover","Automotive","SUP0118",23.11,29.97,25
+852,"PRD00852","Premium Snack Box","Grocery","SUP0105",36.35,49.23,25
+853,"PRD00853","Ultra Scarf","Apparel","SUP0090",82.20,128.09,100
+854,"PRD00854","Eco Speaker","Electronics","SUP0039",287.66,553.71,100
+855,"PRD00855","Deluxe Backpack","Sports & Outdoors","SUP0094",12.42,21.71,50
+856,"PRD00856","Compact Moisturizer","Health & Beauty","SUP0057",96.45,161.08,20
+857,"PRD00857","Classic Tea Set","Grocery","SUP0098",37.54,48.40,75
+858,"PRD00858","Premium Spice Kit","Grocery","SUP0102",17.33,25.04,20
+859,"PRD00859","Heavy-Duty Tablet Stand","Electronics","SUP0018",588.69,1169.12,75
+860,"PRD00860","Premium Pasta Pack","Grocery","SUP0025",11.00,19.15,20
+861,"PRD00861","Eco Office Chair","Furniture","SUP0059",198.34,332.02,10
+862,"PRD00862","Heavy-Duty Pasta Pack","Grocery","SUP0036",19.09,37.78,25
+863,"PRD00863","Portable Bed Frame","Furniture","SUP0082",557.46,842.95,10
+864,"PRD00864","Eco Tyre Inflator","Automotive","SUP0063",54.50,74.31,75
+865,"PRD00865","Ultra Bike Light","Sports & Outdoors","SUP0071",72.24,103.90,25
+866,"PRD00866","Pro Binder","Office Supplies","SUP0107",76.85,128.41,100
+867,"PRD00867","Premium Tablet Stand","Electronics","SUP0007",425.86,568.98,20
+868,"PRD00868","Eco Pasta Pack","Grocery","SUP0083",34.55,61.92,20
+869,"PRD00869","Pro Hair Dryer","Health & Beauty","SUP0066",9.56,17.03,10
+870,"PRD00870","Essential Coffee Beans","Grocery","SUP0061",22.20,29.11,20
+871,"PRD00871","Smart Shampoo","Health & Beauty","SUP0029",47.46,76.58,25
+872,"PRD00872","Pro Electric Toothbrush","Health & Beauty","SUP0055",19.08,37.38,50
+873,"PRD00873","Ultra Snack Box","Grocery","SUP0028",34.15,59.82,50
+874,"PRD00874","Portable Scarf","Apparel","SUP0080",72.03,112.28,50
+875,"PRD00875","Premium Card Game","Toys & Games","SUP0085",79.51,131.91,25
+876,"PRD00876","Smart Card Game","Toys & Games","SUP0037",11.22,18.34,25
+877,"PRD00877","Ultra Car Vacuum","Automotive","SUP0044",324.50,517.39,25
+878,"PRD00878","Pro Electric Toothbrush","Health & Beauty","SUP0084",8.04,14.79,100
+879,"PRD00879","Essential Snack Box","Grocery","SUP0025",8.85,12.78,20
+880,"PRD00880","Eco Yoga Mat","Sports & Outdoors","SUP0104",54.42,81.50,75
+881,"PRD00881","Deluxe Binder","Office Supplies","SUP0018",68.59,112.46,100
+882,"PRD00882","Ultra Router","Electronics","SUP0034",175.83,335.55,50
+883,"PRD00883","Heavy-Duty Notebook","Office Supplies","SUP0075",79.40,151.09,100
+884,"PRD00884","Eco Snack Box","Grocery","SUP0093",10.31,16.38,100
+885,"PRD00885","Portable Cap","Apparel","SUP0101",147.82,270.36,50
+886,"PRD00886","Essential Snack Box","Grocery","SUP0065",2.06,2.68,25
+887,"PRD00887","Essential Sofa","Furniture","SUP0024",430.94,832.54,25
+888,"PRD00888","Wireless Router","Electronics","SUP0093",437.88,710.84,75
+889,"PRD00889","Wireless TV Stand","Furniture","SUP0116",117.29,204.39,25
+890,"PRD00890","Eco Electric Toothbrush","Health & Beauty","SUP0029",82.74,127.03,100
+891,"PRD00891","Classic Snack Box","Grocery","SUP0048",31.25,61.67,25
+892,"PRD00892","Ultra Puzzle","Toys & Games","SUP0061",27.64,45.40,10
+893,"PRD00893","Smart Spice Kit","Grocery","SUP0080",12.20,22.50,10
+894,"PRD00894","Eco Bike Light","Sports & Outdoors","SUP0016",175.81,303.44,100
+895,"PRD00895","Pro Desk Organizer","Office Supplies","SUP0007",72.22,111.72,20
+896,"PRD00896","Eco Cookware Set","Home & Kitchen","SUP0053",229.45,378.54,75
+897,"PRD00897","Ultra Pasta Pack","Grocery","SUP0041",7.16,12.69,100
+898,"PRD00898","Compact Toaster","Home & Kitchen","SUP0043",199.97,297.47,100
+899,"PRD00899","Deluxe Coffee Beans","Grocery","SUP0001",34.43,66.44,50
+900,"PRD00900","Wireless Socks Pack","Apparel","SUP0098",45.15,89.74,20
+901,"PRD00901","Compact Water Bottle","Sports & Outdoors","SUP0079",47.37,66.39,50
+902,"PRD00902","Classic Hair Dryer","Health & Beauty","SUP0062",20.87,40.08,50
+903,"PRD00903","Portable Monitor","Electronics","SUP0094",528.62,721.08,25
+904,"PRD00904","Deluxe Spice Kit","Grocery","SUP0025",18.17,31.10,10
+905,"PRD00905","Essential Moisturizer","Health & Beauty","SUP0029",11.10,21.22,100
+906,"PRD00906","Pro Pasta Pack","Grocery","SUP0014",32.34,52.68,50
+907,"PRD00907","Pro Water Bottle","Sports & Outdoors","SUP0009",290.34,453.89,10
+908,"PRD00908","Pro Hoodie","Apparel","SUP0094",147.70,258.61,75
+909,"PRD00909","Deluxe Building Blocks","Toys & Games","SUP0114",77.62,106.69,100
+910,"PRD00910","Deluxe Tea Set","Grocery","SUP0046",35.40,55.60,20
+911,"PRD00911","Classic Blender","Home & Kitchen","SUP0030",47.26,59.52,20
+912,"PRD00912","Wireless Dash Cam","Automotive","SUP0094",228.30,375.68,10
+913,"PRD00913","Wireless Puzzle","Toys & Games","SUP0047",87.45,167.70,100
+914,"PRD00914","Premium Hair Dryer","Health & Beauty","SUP0113",10.70,19.25,100
+915,"PRD00915","Portable Socks Pack","Apparel","SUP0007",32.17,60.92,75
+916,"PRD00916","Essential Coffee Beans","Grocery","SUP0084",32.94,54.54,10
+917,"PRD00917","Compact Tablet Stand","Electronics","SUP0057",572.54,850.66,50
+918,"PRD00918","Pro Toaster","Home & Kitchen","SUP0090",122.02,227.72,20
+919,"PRD00919","Essential Cutting Board","Home & Kitchen","SUP0002",119.14,180.90,25
+920,"PRD00920","Compact Resistance Bands","Sports & Outdoors","SUP0067",151.30,283.11,25
+921,"PRD00921","Heavy-Duty Moisturizer","Health & Beauty","SUP0054",35.52,49.03,10
+922,"PRD00922","Smart Yoga Mat","Sports & Outdoors","SUP0037",215.33,402.56,10
+923,"PRD00923","Ultra Bookshelf","Furniture","SUP0078",113.06,161.67,20
+924,"PRD00924","Portable Bookshelf","Furniture","SUP0046",149.23,225.48,100
+925,"PRD00925","Wireless Notebook","Office Supplies","SUP0071",41.63,75.42,50
+926,"PRD00926","Heavy-Duty Tea Set","Grocery","SUP0043",26.39,45.28,20
+927,"PRD00927","Essential Charger","Electronics","SUP0117",291.61,548.54,10
+928,"PRD00928","Essential Bed Frame","Furniture","SUP0020",437.38,867.91,10
+929,"PRD00929","Compact TV Stand","Furniture","SUP0093",579.87,779.75,10
+930,"PRD00930","Essential Pasta Pack","Grocery","SUP0059",27.37,40.89,25
+931,"PRD00931","Premium T-Shirt","Apparel","SUP0105",104.52,136.11,20
+932,"PRD00932","Pro Snack Box","Grocery","SUP0103",7.82,14.79,100
+933,"PRD00933","Heavy-Duty T-Shirt","Apparel","SUP0013",37.94,71.24,10
+934,"PRD00934","Wireless Speaker","Electronics","SUP0043",234.23,405.72,25
+935,"PRD00935","Smart Snack Box","Grocery","SUP0113",28.07,45.88,100
+936,"PRD00936","Deluxe Speaker","Electronics","SUP0015",254.67,358.95,50
+937,"PRD00937","Ultra Pen Set","Office Supplies","SUP0107",4.92,7.27,50
+938,"PRD00938","Ultra Seat Cover","Automotive","SUP0084",264.73,517.21,20
+939,"PRD00939","Heavy-Duty Headphones","Electronics","SUP0109",698.90,1275.18,20
+940,"PRD00940","Smart Power Bank","Electronics","SUP0103",633.93,1108.58,75
+941,"PRD00941","Wireless Vitamin Pack","Health & Beauty","SUP0049",28.25,54.53,25
+942,"PRD00942","Essential Moisturizer","Health & Beauty","SUP0062",68.06,113.68,50
+943,"PRD00943","Classic Power Bank","Electronics","SUP0006",102.13,161.91,10
+944,"PRD00944","Deluxe T-Shirt","Apparel","SUP0091",71.75,136.21,100
+945,"PRD00945","Heavy-Duty Card Game","Toys & Games","SUP0093",67.41,103.49,75
+946,"PRD00946","Essential Scarf","Apparel","SUP0044",146.64,195.48,75
+947,"PRD00947","Heavy-Duty Card Game","Toys & Games","SUP0013",53.02,67.95,50
+948,"PRD00948","Eco Hair Dryer","Health & Beauty","SUP0045",74.77,144.95,100
+949,"PRD00949","Classic Moisturizer","Health & Beauty","SUP0108",30.16,57.12,75
+950,"PRD00950","Smart Coffee Beans","Grocery","SUP0002",12.40,23.97,100
+951,"PRD00951","Portable Tea Set","Grocery","SUP0110",30.40,56.35,50
+952,"PRD00952","Compact Tea Set","Grocery","SUP0042",1.70,3.35,20
+953,"PRD00953","Pro T-Shirt","Apparel","SUP0065",110.37,163.19,20
+954,"PRD00954","Classic Building Blocks","Toys & Games","SUP0105",100.21,146.42,20
+955,"PRD00955","Ultra Power Bank","Electronics","SUP0012",700.11,934.25,50
+956,"PRD00956","Compact Tent","Sports & Outdoors","SUP0096",212.88,352.43,100
+957,"PRD00957","Classic Tablet Stand","Electronics","SUP0005",90.78,129.94,75
+958,"PRD00958","Compact Card Game","Toys & Games","SUP0080",5.44,8.71,100
+959,"PRD00959","Portable Socks Pack","Apparel","SUP0027",48.68,82.70,100
+960,"PRD00960","Deluxe Electric Toothbrush","Health & Beauty","SUP0106",31.83,46.95,10
+961,"PRD00961","Ultra Desk","Furniture","SUP0072",675.29,868.50,75
+962,"PRD00962","Heavy-Duty Action Figure","Toys & Games","SUP0092",108.74,205.43,50
+963,"PRD00963","Essential Monitor","Electronics","SUP0001",539.23,913.95,25
+964,"PRD00964","Essential Pen Set","Office Supplies","SUP0071",80.52,111.84,75
+965,"PRD00965","Compact Notebook","Office Supplies","SUP0115",8.95,12.80,20
+966,"PRD00966","Heavy-Duty Resistance Bands","Sports & Outdoors","SUP0093",239.61,305.74,50
+967,"PRD00967","Smart Monitor","Electronics","SUP0025",472.50,943.38,10
+968,"PRD00968","Classic Pasta Pack","Grocery","SUP0059",34.37,56.40,20
+969,"PRD00969","Compact Seat Cover","Automotive","SUP0006",34.82,65.24,100
+970,"PRD00970","Smart Office Chair","Furniture","SUP0099",549.11,733.72,50
+971,"PRD00971","Smart Bike Light","Sports & Outdoors","SUP0018",33.59,64.90,50
+972,"PRD00972","Heavy-Duty Headphones","Electronics","SUP0071",540.32,1011.46,50
+973,"PRD00973","Ultra Sofa","Furniture","SUP0100",794.11,1333.18,20
+974,"PRD00974","Wireless Dash Cam","Automotive","SUP0014",211.80,333.12,50
+975,"PRD00975","Smart Electric Toothbrush","Health & Beauty","SUP0065",33.74,53.17,50
+976,"PRD00976","Smart Binder","Office Supplies","SUP0098",70.10,119.27,20
+977,"PRD00977","Deluxe Trousers","Apparel","SUP0058",134.42,212.72,20
+978,"PRD00978","Smart Cutting Board","Home & Kitchen","SUP0114",154.92,267.00,100
+979,"PRD00979","Heavy-Duty Bike Light","Sports & Outdoors","SUP0111",179.96,319.78,25
+980,"PRD00980","Portable Dash Cam","Automotive","SUP0026",102.60,167.68,20
+981,"PRD00981","Pro Electric Toothbrush","Health & Beauty","SUP0118",13.11,20.17,100
+982,"PRD00982","Heavy-Duty Cutting Board","Home & Kitchen","SUP0023",126.02,219.17,75
+983,"PRD00983","Essential Action Figure","Toys & Games","SUP0091",114.26,194.30,10
+984,"PRD00984","Portable Bed Frame","Furniture","SUP0075",675.64,1101.09,75
+985,"PRD00985","Heavy-Duty Tea Set","Grocery","SUP0087",25.73,33.53,100
+986,"PRD00986","Portable Snack Box","Grocery","SUP0113",10.92,16.61,50
+987,"PRD00987","Portable Office Chair","Furniture","SUP0004",438.43,563.05,50
+988,"PRD00988","Essential Blender","Home & Kitchen","SUP0026",41.89,61.06,25
+989,"PRD00989","Wireless Desk","Furniture","SUP0088",875.09,1311.33,25
+990,"PRD00990","Premium Cutting Board","Home & Kitchen","SUP0101",124.65,174.15,25
+991,"PRD00991","Portable Blender","Home & Kitchen","SUP0046",155.81,227.56,50
+992,"PRD00992","Essential Monitor","Electronics","SUP0096",177.49,290.63,100
+993,"PRD00993","Eco Card Game","Toys & Games","SUP0101",4.64,5.83,100
+994,"PRD00994","Essential T-Shirt","Apparel","SUP0119",36.76,46.96,50
+995,"PRD00995","Essential Pen Set","Office Supplies","SUP0071",11.51,17.31,10
+996,"PRD00996","Pro Monitor","Electronics","SUP0080",645.03,1083.03,50
+997,"PRD00997","Essential TV Stand","Furniture","SUP0091",473.58,696.22,100
+998,"PRD00998","Smart Whiteboard","Office Supplies","SUP0095",83.99,130.00,75
+999,"PRD00999","Heavy-Duty Kettle","Home & Kitchen","SUP0038",29.08,49.81,50
+1000,"PRD01000","Essential Blender","Home & Kitchen","SUP0024",35.55,53.64,20

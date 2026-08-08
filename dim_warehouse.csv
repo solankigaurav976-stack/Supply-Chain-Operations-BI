@@ -1,0 +1,13 @@
+"warehouse_key","warehouse_id","warehouse_name","location","region","capacity"
+1,"WH001","Nottingham Distribution Center","Nottingham","Midlands",103810
+2,"WH002","Manchester Distribution Center","Manchester","North",34592
+3,"WH003","Leeds Distribution Center","Leeds","North",23278
+4,"WH004","Birmingham Distribution Center","Birmingham","Midlands",117196
+5,"WH005","London Distribution Center","London","South",56048
+6,"WH006","Bristol Distribution Center","Bristol","South",52098
+7,"WH007","Glasgow Distribution Center","Glasgow","North",49256
+8,"WH008","Liverpool Distribution Center","Liverpool","North",38289
+9,"WH009","Sheffield Distribution Center","Sheffield","North",116530
+10,"WH010","Southampton Distribution Center","Southampton","South",33434
+11,"WH011","Cardiff Distribution Center","Cardiff","West",108696
+12,"WH012","Newcastle Distribution Center","Newcastle","North",117080
