@@ -83,6 +83,14 @@ The dashboard focuses on:
 
 ![Supply Chain & Operations Power BI Dashboard](Supply_Chain_Operations_BI_Dashboard.png)
 
+## 💡 Key Insights
+
+- Identified categories with the highest inventory value at risk
+- Analysed low-stock products requiring potential replenishment
+- Compared stock levels against reorder levels across categories
+- Evaluated warehouse and supplier performance
+- Monitored inventory risk using interactive Power BI visuals
+
 ## 🚀 Skills Demonstrated
 
 - SQL
